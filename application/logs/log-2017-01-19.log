@@ -1,0 +1,163 @@
+DEBUG - 2017-01-19 00:02:42 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 00:02:42 --> No URI present. Default controller set.
+DEBUG - 2017-01-19 00:02:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 00:02:42 --> Total execution time: 0.0243
+DEBUG - 2017-01-19 00:47:41 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 00:47:41 --> No URI present. Default controller set.
+DEBUG - 2017-01-19 00:47:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 00:47:41 --> Total execution time: 0.0092
+DEBUG - 2017-01-19 00:57:45 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 00:57:45 --> No URI present. Default controller set.
+DEBUG - 2017-01-19 00:57:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 00:57:45 --> Total execution time: 0.0092
+DEBUG - 2017-01-19 04:35:42 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 04:35:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 04:35:42 --> 404 Page Not Found: Auth/login
+DEBUG - 2017-01-19 04:58:34 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 04:58:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 04:58:34 --> 404 Page Not Found: Help/user
+DEBUG - 2017-01-19 04:58:34 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 04:58:34 --> No URI present. Default controller set.
+DEBUG - 2017-01-19 04:58:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 04:58:34 --> Total execution time: 0.0088
+DEBUG - 2017-01-19 07:02:44 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 07:02:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 07:02:44 --> 404 Page Not Found: Erroraspx/index
+DEBUG - 2017-01-19 07:56:35 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 07:56:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 07:56:35 --> 404 Page Not Found: Issmall/index
+DEBUG - 2017-01-19 07:56:35 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 07:56:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 07:56:35 --> 404 Page Not Found: Install/index
+DEBUG - 2017-01-19 07:56:45 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 07:56:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 07:56:45 --> 404 Page Not Found: Issmall/index
+DEBUG - 2017-01-19 07:56:45 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 07:56:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 07:56:45 --> 404 Page Not Found: Install/index
+DEBUG - 2017-01-19 08:02:12 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:02:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:02:12 --> 404 Page Not Found: Ids/admin
+DEBUG - 2017-01-19 08:02:21 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:02:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:02:21 --> 404 Page Not Found: Siteserver/login.aspx
+DEBUG - 2017-01-19 08:02:21 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:02:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:02:21 --> 404 Page Not Found: Ids/admin
+DEBUG - 2017-01-19 08:22:53 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:22:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:22:53 --> 404 Page Not Found: App/login.jsp
+DEBUG - 2017-01-19 08:23:02 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:23:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:23:02 --> 404 Page Not Found: App/login.jsp
+DEBUG - 2017-01-19 08:40:34 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:40:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:40:34 --> 404 Page Not Found: Admin/login.aspx
+DEBUG - 2017-01-19 08:40:43 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:40:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:40:43 --> 404 Page Not Found: Examples/index.html
+DEBUG - 2017-01-19 08:40:43 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:40:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 08:40:43 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:40:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:40:43 --> 404 Page Not Found: Admin/login.aspx
+ERROR - 2017-01-19 08:40:43 --> 404 Page Not Found: Console/auth
+DEBUG - 2017-01-19 08:45:53 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:45:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 08:45:53 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:45:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:45:53 --> 404 Page Not Found: CuteSoft_Client/CuteEditor
+ERROR - 2017-01-19 08:45:53 --> 404 Page Not Found: Siteserver/upgrade
+DEBUG - 2017-01-19 08:50:57 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:50:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:50:57 --> 404 Page Not Found: Master/login.aspx
+DEBUG - 2017-01-19 08:51:06 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:51:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:51:06 --> 404 Page Not Found: CuteSoft_Client/CuteEditor
+DEBUG - 2017-01-19 08:51:06 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:51:06 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:51:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 08:51:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:51:06 --> 404 Page Not Found: Master/login.aspx
+ERROR - 2017-01-19 08:51:06 --> 404 Page Not Found: Docs/index
+DEBUG - 2017-01-19 08:51:06 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:51:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:51:06 --> 404 Page Not Found: Maintloginjsp/index
+DEBUG - 2017-01-19 08:54:33 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 08:54:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 08:54:33 --> 404 Page Not Found: Cgi/index.cgi
+DEBUG - 2017-01-19 09:04:35 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 09:04:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 09:04:35 --> 404 Page Not Found: Admin/index
+DEBUG - 2017-01-19 09:04:35 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 09:04:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 09:04:35 --> 404 Page Not Found: Indexcgi/index
+DEBUG - 2017-01-19 09:04:35 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 09:04:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 09:04:35 --> 404 Page Not Found: Ckeditor/ckfinder
+DEBUG - 2017-01-19 09:07:10 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 09:07:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 09:07:10 --> 404 Page Not Found: Ids/admin
+DEBUG - 2017-01-19 09:07:21 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 09:07:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 09:07:21 --> 404 Page Not Found: Ids/admin
+DEBUG - 2017-01-19 09:08:25 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 09:08:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 09:08:25 --> 404 Page Not Found: Console/include
+DEBUG - 2017-01-19 09:08:26 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 09:08:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 09:08:26 --> 404 Page Not Found: Examples/file-manager.html
+DEBUG - 2017-01-19 10:02:16 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 10:02:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 10:02:16 --> 404 Page Not Found: Admin/SouthidcEditor
+DEBUG - 2017-01-19 11:44:10 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 11:44:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 11:44:10 --> 404 Page Not Found: Ids/admin
+DEBUG - 2017-01-19 11:46:22 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 11:46:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 11:46:22 --> 404 Page Not Found: Examples/index.html
+DEBUG - 2017-01-19 12:08:20 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 12:08:20 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 12:08:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 12:08:20 --> 404 Page Not Found: Siteserver/login.aspx
+DEBUG - 2017-01-19 12:08:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 12:08:20 --> 404 Page Not Found: Console/auth
+DEBUG - 2017-01-19 12:12:37 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 12:12:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 12:12:37 --> 404 Page Not Found: Examples/file-manager.html
+DEBUG - 2017-01-19 12:30:12 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 12:30:12 --> No URI present. Default controller set.
+DEBUG - 2017-01-19 12:30:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 12:30:12 --> Total execution time: 0.0090
+DEBUG - 2017-01-19 12:46:28 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 12:46:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 12:46:28 --> 404 Page Not Found: Admin/index
+DEBUG - 2017-01-19 13:16:21 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 13:16:21 --> No URI present. Default controller set.
+DEBUG - 2017-01-19 13:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 13:16:21 --> Total execution time: 0.0090
+DEBUG - 2017-01-19 13:27:07 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 13:27:07 --> No URI present. Default controller set.
+DEBUG - 2017-01-19 13:27:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 13:27:07 --> Total execution time: 0.0131
+DEBUG - 2017-01-19 16:09:29 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 16:09:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 16:09:29 --> 404 Page Not Found: Ids/admin
+DEBUG - 2017-01-19 16:56:55 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 16:56:55 --> No URI present. Default controller set.
+DEBUG - 2017-01-19 16:56:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 16:56:55 --> Total execution time: 0.0086
+DEBUG - 2017-01-19 17:40:27 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 17:40:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 17:40:27 --> 404 Page Not Found: Admin/index
+DEBUG - 2017-01-19 18:04:54 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 18:04:54 --> No URI present. Default controller set.
+DEBUG - 2017-01-19 18:04:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 18:04:54 --> Total execution time: 0.0089
+DEBUG - 2017-01-19 18:09:46 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 18:09:46 --> No URI present. Default controller set.
+DEBUG - 2017-01-19 18:09:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-01-19 18:09:46 --> Total execution time: 0.0094
+DEBUG - 2017-01-19 19:02:40 --> UTF-8 Support Enabled
+DEBUG - 2017-01-19 19:02:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-01-19 19:02:40 --> 404 Page Not Found: Cache/global

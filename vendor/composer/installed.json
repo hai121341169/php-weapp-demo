@@ -1,0 +1,120 @@
+[
+    {
+        "name": "royfj/tencentyun-cos-php-sdk-v4",
+        "version": "0.1.0",
+        "version_normalized": "0.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/royfj/tencentyun-cos-php-sdk-v4.git",
+            "reference": "a8b2adfd9e700389e88f0903a56a873bde2e6324"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/royfj/tencentyun-cos-php-sdk-v4/a8b2adfd9e700389e88f0903a56a873bde2e6324.zip",
+            "reference": "a8b2adfd9e700389e88f0903a56a873bde2e6324",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "time": "2017-06-14T03:48:13+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "include.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "description": "Fork from Tencentyun COS php sdk v4",
+        "homepage": "https://www.qcloud.com/"
+    },
+    {
+        "name": "gregwar/captcha",
+        "version": "v1.1.2",
+        "version_normalized": "1.1.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Gregwar/Captcha.git",
+            "reference": "2f704c8bc3f1bb5f58994af2729e77ac4e3172e6"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/Gregwar/Captcha/2f704c8bc3f1bb5f58994af2729e77ac4e3172e6.zip",
+            "reference": "2f704c8bc3f1bb5f58994af2729e77ac4e3172e6",
+            "shasum": ""
+        },
+        "require": {
+            "ext-gd": "*",
+            "php": ">=5.3.0"
+        },
+        "time": "2017-04-19T08:10:55+00:00",
+        "type": "captcha",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Gregwar\\Captcha\\": "/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Grégoire Passault",
+                "email": "g.passault@gmail.com",
+                "homepage": "http://www.gregwar.com/"
+            },
+            {
+                "name": "Jeremy Livingston",
+                "email": "jeremy.j.livingston@gmail.com"
+            }
+        ],
+        "description": "Captcha generator",
+        "homepage": "https://github.com/Gregwar/Captcha",
+        "keywords": [
+            "bot",
+            "captcha",
+            "spam"
+        ]
+    },
+    {
+        "name": "xiang1993/wechatapp-decrypt",
+        "version": "v1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Xiang1993/WechatApp-decrypt.git",
+            "reference": "a2d00e5ec28c7318e6f4bc16912840013f9caf3a"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/Xiang1993/WechatApp-decrypt/a2d00e5ec28c7318e6f4bc16912840013f9caf3a.zip",
+            "reference": "a2d00e5ec28c7318e6f4bc16912840013f9caf3a",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">5.4"
+        },
+        "time": "2017-05-06T08:15:13+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Xiang\\WechatApp\\Decode\\": "src/decode"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "authors": [
+            {
+                "name": "axf",
+                "email": "2792938834@qq.com"
+            }
+        ],
+        "description": "微信小程序签名加密"
+    }
+]

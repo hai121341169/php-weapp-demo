@@ -1,0 +1,1841 @@
+DEBUG - 2017-07-14 09:11:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:11:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:11:19 --> Total execution time: 2.2398
+DEBUG - 2017-07-14 09:11:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:11:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:11:21 --> Total execution time: 0.6342
+DEBUG - 2017-07-14 09:11:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:11:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:11:22 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-14 09:11:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:11:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:11:24 --> Total execution time: 0.8040
+DEBUG - 2017-07-14 09:11:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:11:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:11:25 --> Total execution time: 0.6133
+DEBUG - 2017-07-14 09:11:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:11:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:11:30 --> 404 Page Not Found: backend/Article-listhtml/index
+DEBUG - 2017-07-14 09:11:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:11:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:11:43 --> Total execution time: 0.6095
+DEBUG - 2017-07-14 09:11:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:11:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:11:44 --> Total execution time: 0.6651
+DEBUG - 2017-07-14 09:11:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:11:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:11:50 --> 404 Page Not Found: backend/Picture-listhtml/index
+DEBUG - 2017-07-14 09:11:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:11:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:11:56 --> 404 Page Not Found: backend/Article-listhtml/index
+DEBUG - 2017-07-14 09:12:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:12:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:12:02 --> 404 Page Not Found: backend/Article-listhtml/index
+DEBUG - 2017-07-14 09:12:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:12:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:12:03 --> 404 Page Not Found: backend/Picture-listhtml/index
+DEBUG - 2017-07-14 09:12:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:12:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:12:06 --> 404 Page Not Found: backend/Picture-listhtml/index
+DEBUG - 2017-07-14 09:12:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:12:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:12:08 --> 404 Page Not Found: backend/Product-categoryhtml/index
+DEBUG - 2017-07-14 09:15:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:15:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:15:23 --> Severity: Notice --> Undefined property: Login::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 7
+ERROR - 2017-07-14 09:15:23 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 7
+DEBUG - 2017-07-14 09:15:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:15:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:15:28 --> Severity: Notice --> Undefined property: Login::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 7
+ERROR - 2017-07-14 09:15:28 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 7
+DEBUG - 2017-07-14 09:15:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:15:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:15:47 --> Severity: Notice --> Undefined property: Login::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 7
+ERROR - 2017-07-14 09:15:47 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 7
+DEBUG - 2017-07-14 09:15:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:15:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:16:00 --> Total execution time: 0.6120
+DEBUG - 2017-07-14 09:16:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:16:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:16:00 --> 404 Page Not Found: backend/Login/login
+DEBUG - 2017-07-14 09:16:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:16:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:16:03 --> Total execution time: 0.5342
+DEBUG - 2017-07-14 09:16:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:16:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:16:03 --> Total execution time: 0.5799
+DEBUG - 2017-07-14 09:16:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:16:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:16:11 --> Severity: Notice --> Undefined property: Login::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 11
+ERROR - 2017-07-14 09:16:11 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 11
+DEBUG - 2017-07-14 09:16:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:16:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:16:18 --> 404 Page Not Found: backend/Index/index
+DEBUG - 2017-07-14 09:16:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:16:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:16:34 --> 404 Page Not Found: backend/Index/index
+DEBUG - 2017-07-14 09:16:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:16:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:16:42 --> 404 Page Not Found: backend/Index/index
+DEBUG - 2017-07-14 09:16:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:16:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:16:46 --> 404 Page Not Found: backend/Index/index
+DEBUG - 2017-07-14 09:17:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:17:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:17:18 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+ERROR - 2017-07-14 09:17:18 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+DEBUG - 2017-07-14 09:18:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:18:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:18:04 --> Severity: Notice --> Undefined property: Welcome::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Welcome.php 11
+ERROR - 2017-07-14 09:18:04 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Welcome.php 11
+DEBUG - 2017-07-14 09:18:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:18:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:18:22 --> Severity: Notice --> Undefined property: Welcome::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Welcome.php 11
+ERROR - 2017-07-14 09:18:22 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Welcome.php 11
+DEBUG - 2017-07-14 09:19:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:19:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:19:29 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+ERROR - 2017-07-14 09:19:29 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+DEBUG - 2017-07-14 09:19:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:19:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:19:45 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+ERROR - 2017-07-14 09:19:45 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+DEBUG - 2017-07-14 09:19:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:19:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:19:52 --> 404 Page Not Found: backend/Index/index
+DEBUG - 2017-07-14 09:20:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:20:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:20:00 --> Total execution time: 0.5238
+DEBUG - 2017-07-14 09:20:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:20:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:20:01 --> 404 Page Not Found: backend/Index/login
+DEBUG - 2017-07-14 09:21:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:21:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:21:36 --> Severity: Parsing Error --> syntax error, unexpected '(', expecting identifier (T_STRING) /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 6
+DEBUG - 2017-07-14 09:21:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:21:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:21:45 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+ERROR - 2017-07-14 09:21:45 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+DEBUG - 2017-07-14 09:21:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:21:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:21:48 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+ERROR - 2017-07-14 09:21:48 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+DEBUG - 2017-07-14 09:22:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:22:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:22:48 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+ERROR - 2017-07-14 09:22:49 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+DEBUG - 2017-07-14 09:22:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:22:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:22:54 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+ERROR - 2017-07-14 09:22:54 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+DEBUG - 2017-07-14 09:22:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:22:57 --> No URI present. Default controller set.
+DEBUG - 2017-07-14 09:22:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:22:57 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+ERROR - 2017-07-14 09:22:57 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+DEBUG - 2017-07-14 09:23:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:23:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:23:01 --> 404 Page Not Found: backend/Login/index
+DEBUG - 2017-07-14 09:23:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:23:03 --> No URI present. Default controller set.
+DEBUG - 2017-07-14 09:23:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:23:04 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+ERROR - 2017-07-14 09:23:04 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Index.php 7
+DEBUG - 2017-07-14 09:23:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:23:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:23:18 --> 404 Page Not Found: backend//index
+DEBUG - 2017-07-14 09:26:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:26:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:26:45 --> 404 Page Not Found: backend//index
+DEBUG - 2017-07-14 09:27:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:27:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:27:37 --> 404 Page Not Found: backend//index
+DEBUG - 2017-07-14 09:27:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:27:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:27:45 --> 404 Page Not Found: backend//index
+DEBUG - 2017-07-14 09:27:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:27:52 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:27:52 --> 404 Page Not Found: backend//index
+DEBUG - 2017-07-14 09:28:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:28:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:28:34 --> 404 Page Not Found: backend/Weclome/index
+DEBUG - 2017-07-14 09:28:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:28:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:28:39 --> 404 Page Not Found: backend/Weclome/index
+DEBUG - 2017-07-14 09:28:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:28:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:28:53 --> 404 Page Not Found: backend/Weclome/index
+DEBUG - 2017-07-14 09:29:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:29:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:29:14 --> 404 Page Not Found: backend/Weclome/index2
+DEBUG - 2017-07-14 09:29:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:29:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:29:58 --> Total execution time: 0.5407
+DEBUG - 2017-07-14 09:29:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:29:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:29:59 --> Total execution time: 0.5824
+DEBUG - 2017-07-14 09:30:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:30:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:30:14 --> Severity: Notice --> Undefined property: Login::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 11
+ERROR - 2017-07-14 09:30:14 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 11
+DEBUG - 2017-07-14 09:30:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:30:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:30:18 --> Severity: Notice --> Undefined property: Login::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 11
+ERROR - 2017-07-14 09:30:18 --> Severity: Error --> Call to a member function view() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 11
+DEBUG - 2017-07-14 09:31:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:31:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:31:10 --> 404 Page Not Found: backend/Login/login
+DEBUG - 2017-07-14 09:31:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:31:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:31:13 --> Total execution time: 0.5531
+DEBUG - 2017-07-14 09:31:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:31:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:31:14 --> Total execution time: 0.5620
+DEBUG - 2017-07-14 09:31:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:31:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:31:19 --> Total execution time: 0.6061
+DEBUG - 2017-07-14 09:31:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:31:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:31:20 --> 404 Page Not Found: backend/Login/login
+DEBUG - 2017-07-14 09:31:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:31:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:31:31 --> Total execution time: 0.5621
+DEBUG - 2017-07-14 09:32:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:32:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:32:35 --> Total execution time: 0.5616
+DEBUG - 2017-07-14 09:32:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:32:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:32:40 --> Total execution time: 0.6905
+DEBUG - 2017-07-14 09:33:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:33:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:33:45 --> Total execution time: 0.8400
+DEBUG - 2017-07-14 09:34:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:34:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:34:18 --> Total execution time: 0.7584
+DEBUG - 2017-07-14 09:36:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:36:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:36:22 --> Total execution time: 2.0493
+DEBUG - 2017-07-14 09:38:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:38:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:38:30 --> Total execution time: 0.7249
+DEBUG - 2017-07-14 09:39:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:39:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:39:14 --> Total execution time: 1.2710
+DEBUG - 2017-07-14 09:39:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:39:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:39:51 --> Total execution time: 0.8634
+DEBUG - 2017-07-14 09:40:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:40:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:40:13 --> Total execution time: 0.7177
+DEBUG - 2017-07-14 09:40:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:40:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:40:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:40:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:40:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:40:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:40:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:40:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:40:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:40:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:40:30 --> Total execution time: 2.0514
+DEBUG - 2017-07-14 09:40:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:40:31 --> Total execution time: 2.1089
+DEBUG - 2017-07-14 09:40:31 --> Total execution time: 2.0117
+DEBUG - 2017-07-14 09:40:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:40:31 --> Total execution time: 1.9429
+DEBUG - 2017-07-14 09:40:31 --> Total execution time: 1.7426
+DEBUG - 2017-07-14 09:40:31 --> Total execution time: 1.5290
+DEBUG - 2017-07-14 09:42:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:42:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:42:11 --> Total execution time: 0.5793
+DEBUG - 2017-07-14 09:42:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:42:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:42:57 --> Total execution time: 0.6690
+DEBUG - 2017-07-14 09:43:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:43:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:43:01 --> Total execution time: 0.8196
+DEBUG - 2017-07-14 09:43:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:43:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:43:03 --> Total execution time: 1.1345
+DEBUG - 2017-07-14 09:44:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:44:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:44:26 --> Total execution time: 1.3204
+DEBUG - 2017-07-14 09:44:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:44:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:44:30 --> Total execution time: 0.7107
+DEBUG - 2017-07-14 09:44:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:44:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:44:40 --> Total execution time: 0.6290
+DEBUG - 2017-07-14 09:45:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:45:02 --> Total execution time: 0.6358
+DEBUG - 2017-07-14 09:45:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:45:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:45:22 --> Total execution time: 0.5749
+DEBUG - 2017-07-14 09:45:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:45:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 09:45:24 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-14 09:45:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:45:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:45:30 --> Total execution time: 0.5824
+DEBUG - 2017-07-14 09:45:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:45:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:45:46 --> Total execution time: 0.6453
+DEBUG - 2017-07-14 09:45:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:45:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:45:47 --> Total execution time: 0.8057
+DEBUG - 2017-07-14 09:46:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 09:46:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 09:46:05 --> Total execution time: 0.8646
+DEBUG - 2017-07-14 10:05:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:05:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:05:49 --> Severity: Notice --> Undefined variable: secret /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 11
+ERROR - 2017-07-14 10:05:50 --> Severity: error --> Exception: No secret provided /vagrant/svn_projects/php-weapp-demo/vendor/google/recaptcha/src/ReCaptcha/ReCaptcha.php 62
+DEBUG - 2017-07-14 10:05:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:05:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:05:51 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-14 10:07:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:07:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:07:11 --> Severity: Parsing Error --> syntax error, unexpected 'ReCaptcha' (T_STRING) /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 3
+DEBUG - 2017-07-14 10:07:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:07:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:07:15 --> Severity: Parsing Error --> syntax error, unexpected 'ReCaptcha' (T_STRING) /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Login.php 3
+DEBUG - 2017-07-14 10:12:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:12:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:12:22 --> Total execution time: 0.8464
+DEBUG - 2017-07-14 10:12:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:12:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:12:27 --> Total execution time: 1.0450
+DEBUG - 2017-07-14 10:13:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:13:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:13:33 --> Total execution time: 0.7847
+DEBUG - 2017-07-14 10:14:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:14:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:14:24 --> Total execution time: 1.8694
+DEBUG - 2017-07-14 10:14:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:14:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:14:24 --> 404 Page Not Found: backend/Login/login
+DEBUG - 2017-07-14 10:14:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:14:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:14:31 --> Total execution time: 0.6680
+DEBUG - 2017-07-14 10:14:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:14:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:14:32 --> 404 Page Not Found: backend/Login/login
+DEBUG - 2017-07-14 10:14:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:14:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:14:47 --> Total execution time: 0.6747
+DEBUG - 2017-07-14 10:14:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:14:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:14:48 --> Total execution time: 0.8196
+DEBUG - 2017-07-14 10:14:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:14:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:14:56 --> Total execution time: 0.7341
+DEBUG - 2017-07-14 10:14:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:14:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:14:57 --> Total execution time: 0.7969
+DEBUG - 2017-07-14 10:16:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:16:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:16:59 --> Total execution time: 0.6282
+DEBUG - 2017-07-14 10:16:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:17:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:17:00 --> Total execution time: 0.8257
+DEBUG - 2017-07-14 10:17:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:17:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:17:05 --> Total execution time: 0.6576
+DEBUG - 2017-07-14 10:17:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:17:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:17:06 --> Total execution time: 0.8408
+DEBUG - 2017-07-14 10:18:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:18:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:18:17 --> Total execution time: 0.6890
+DEBUG - 2017-07-14 10:18:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:18:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:18:18 --> Total execution time: 0.7910
+DEBUG - 2017-07-14 10:19:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:19:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:19:48 --> Total execution time: 0.5879
+DEBUG - 2017-07-14 10:19:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:19:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:19:49 --> Total execution time: 0.7856
+DEBUG - 2017-07-14 10:19:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:19:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:19:56 --> Total execution time: 0.6278
+DEBUG - 2017-07-14 10:19:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:19:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:19:58 --> Total execution time: 0.7242
+DEBUG - 2017-07-14 10:20:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:20:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:20:14 --> Total execution time: 0.5813
+DEBUG - 2017-07-14 10:20:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:20:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:20:15 --> Total execution time: 0.7597
+DEBUG - 2017-07-14 10:21:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:21:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:21:31 --> Total execution time: 0.6043
+DEBUG - 2017-07-14 10:21:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:21:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:21:32 --> Total execution time: 0.7426
+DEBUG - 2017-07-14 10:21:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:21:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:21:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:21:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:21:36 --> Total execution time: 0.7676
+DEBUG - 2017-07-14 10:21:37 --> Total execution time: 0.7417
+DEBUG - 2017-07-14 10:21:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:21:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:21:38 --> Total execution time: 0.7966
+DEBUG - 2017-07-14 10:23:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:23:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:23:02 --> Total execution time: 0.6538
+DEBUG - 2017-07-14 10:23:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:23:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:23:03 --> Total execution time: 0.8649
+DEBUG - 2017-07-14 10:26:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:26:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:26:06 --> Total execution time: 1.0209
+DEBUG - 2017-07-14 10:26:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:26:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:26:08 --> Total execution time: 0.8028
+DEBUG - 2017-07-14 10:28:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:28:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:28:46 --> Total execution time: 0.6169
+DEBUG - 2017-07-14 10:28:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:28:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:28:47 --> Total execution time: 0.7384
+DEBUG - 2017-07-14 10:28:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:28:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:28:49 --> Total execution time: 0.8922
+DEBUG - 2017-07-14 10:28:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:28:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:28:51 --> Total execution time: 0.8813
+DEBUG - 2017-07-14 10:29:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:29:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:29:03 --> Total execution time: 0.5769
+DEBUG - 2017-07-14 10:29:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:29:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:29:04 --> Total execution time: 0.7707
+DEBUG - 2017-07-14 10:29:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:29:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:29:07 --> Total execution time: 0.7173
+DEBUG - 2017-07-14 10:29:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:29:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:29:08 --> Total execution time: 0.6900
+DEBUG - 2017-07-14 10:29:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:29:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:29:10 --> Total execution time: 0.7060
+DEBUG - 2017-07-14 10:29:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:29:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:29:11 --> Total execution time: 0.7546
+DEBUG - 2017-07-14 10:29:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:29:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:29:13 --> Total execution time: 0.7218
+DEBUG - 2017-07-14 10:33:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:33:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:03 --> Total execution time: 11.6200
+DEBUG - 2017-07-14 10:34:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:23 --> Total execution time: 14.1080
+DEBUG - 2017-07-14 10:34:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:29 --> Total execution time: 12.7051
+DEBUG - 2017-07-14 10:34:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:46 --> Total execution time: 10.8394
+DEBUG - 2017-07-14 10:34:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:46 --> Total execution time: 0.8539
+DEBUG - 2017-07-14 10:34:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:48 --> Total execution time: 1.1083
+DEBUG - 2017-07-14 10:34:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:51 --> Total execution time: 0.7383
+DEBUG - 2017-07-14 10:34:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:53 --> Total execution time: 0.8487
+DEBUG - 2017-07-14 10:34:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:54 --> Total execution time: 0.7655
+DEBUG - 2017-07-14 10:34:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:56 --> Total execution time: 0.8022
+DEBUG - 2017-07-14 10:34:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:34:57 --> Total execution time: 0.8620
+DEBUG - 2017-07-14 10:34:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:34:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:35:00 --> Total execution time: 0.8760
+DEBUG - 2017-07-14 10:35:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:35:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:35:01 --> Total execution time: 0.7662
+DEBUG - 2017-07-14 10:35:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:35:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:35:03 --> Total execution time: 0.7845
+DEBUG - 2017-07-14 10:35:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:35:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:35:18 --> Total execution time: 0.7285
+DEBUG - 2017-07-14 10:35:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:35:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:35:19 --> Total execution time: 0.7333
+DEBUG - 2017-07-14 10:35:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:35:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:35:21 --> Total execution time: 0.9794
+DEBUG - 2017-07-14 10:35:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:35:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:35:22 --> Total execution time: 0.8247
+DEBUG - 2017-07-14 10:37:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:37:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:37:23 --> Total execution time: 0.5820
+DEBUG - 2017-07-14 10:37:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:37:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:37:24 --> Total execution time: 0.5752
+DEBUG - 2017-07-14 10:37:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:37:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:37:34 --> 404 Page Not Found: backend/Picture-listhtml/index
+DEBUG - 2017-07-14 10:37:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:37:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:37:42 --> 404 Page Not Found: backend/Picture-listhtml/index
+DEBUG - 2017-07-14 10:37:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:37:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:37:47 --> 404 Page Not Found: backend/Picture-listhtml/index
+DEBUG - 2017-07-14 10:39:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:39:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:39:57 --> Total execution time: 0.5741
+DEBUG - 2017-07-14 10:39:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:39:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:39:57 --> Total execution time: 0.5716
+DEBUG - 2017-07-14 10:40:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:40:00 --> 404 Page Not Found: backend/Picture-listhtml/index
+DEBUG - 2017-07-14 10:40:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:40:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:40:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:40:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:40:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:40:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:40:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:40:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:40:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:40:08 --> Total execution time: 1.8925
+DEBUG - 2017-07-14 10:40:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:40:09 --> Total execution time: 0.5516
+DEBUG - 2017-07-14 10:40:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:40:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:40:11 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-14 10:41:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:41:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:41:05 --> Total execution time: 0.9261
+DEBUG - 2017-07-14 10:41:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:41:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:41:06 --> Total execution time: 0.5761
+DEBUG - 2017-07-14 10:41:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:41:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:41:09 --> 404 Page Not Found: backend/Picture-listhtml/index
+DEBUG - 2017-07-14 10:41:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:41:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:41:59 --> Total execution time: 0.5812
+DEBUG - 2017-07-14 10:42:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:42:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:42:00 --> Total execution time: 0.5982
+DEBUG - 2017-07-14 10:42:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:42:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:42:02 --> Total execution time: 0.6558
+DEBUG - 2017-07-14 10:43:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:43:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:43:00 --> Total execution time: 0.5856
+DEBUG - 2017-07-14 10:43:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:43:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:43:01 --> Total execution time: 0.5988
+DEBUG - 2017-07-14 10:43:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:43:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:43:03 --> Total execution time: 0.5896
+DEBUG - 2017-07-14 10:43:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:43:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:43:08 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-14 10:43:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:43:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:43:14 --> 404 Page Not Found: backend/Picture-showhtml/index
+DEBUG - 2017-07-14 10:43:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:43:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:43:20 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-14 10:47:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:47:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:47:07 --> Total execution time: 0.6840
+DEBUG - 2017-07-14 10:47:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:47:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:47:08 --> Total execution time: 0.5869
+DEBUG - 2017-07-14 10:47:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:47:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:47:12 --> Total execution time: 0.6483
+DEBUG - 2017-07-14 10:47:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:47:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:47:14 --> 404 Page Not Found: backend/Image_show/index
+DEBUG - 2017-07-14 10:47:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:47:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 10:47:59 --> 404 Page Not Found: backend/Image_add/index
+DEBUG - 2017-07-14 10:48:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:48:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:48:42 --> Total execution time: 0.5917
+DEBUG - 2017-07-14 10:48:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:48:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:48:43 --> Total execution time: 0.5663
+DEBUG - 2017-07-14 10:48:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:48:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:48:46 --> Total execution time: 0.6397
+DEBUG - 2017-07-14 10:48:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:48:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:48:48 --> Total execution time: 0.6731
+DEBUG - 2017-07-14 10:48:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:48:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:48:53 --> Total execution time: 0.8263
+DEBUG - 2017-07-14 10:49:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:49:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:49:34 --> Total execution time: 0.5835
+DEBUG - 2017-07-14 10:49:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:49:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:49:35 --> Total execution time: 0.5807
+DEBUG - 2017-07-14 10:49:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:49:39 --> Total execution time: 0.6686
+DEBUG - 2017-07-14 10:49:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:49:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:49:45 --> Total execution time: 0.6170
+DEBUG - 2017-07-14 10:49:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:49:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:49:46 --> Total execution time: 0.5524
+DEBUG - 2017-07-14 10:49:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:49:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:49:48 --> Total execution time: 0.5939
+DEBUG - 2017-07-14 10:49:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:49:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:49:51 --> Total execution time: 0.6964
+DEBUG - 2017-07-14 10:50:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:50:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:50:27 --> Total execution time: 0.7979
+DEBUG - 2017-07-14 10:50:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:50:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:50:31 --> Total execution time: 0.6922
+DEBUG - 2017-07-14 10:51:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:51:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:51:17 --> Total execution time: 0.6042
+DEBUG - 2017-07-14 10:51:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:51:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:51:18 --> Total execution time: 0.5722
+DEBUG - 2017-07-14 10:51:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:51:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:51:22 --> Total execution time: 0.6185
+DEBUG - 2017-07-14 10:51:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:51:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:51:24 --> Total execution time: 0.7244
+DEBUG - 2017-07-14 10:52:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:52:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:52:01 --> Total execution time: 0.5788
+DEBUG - 2017-07-14 10:52:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:52:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:52:02 --> Total execution time: 0.5769
+DEBUG - 2017-07-14 10:52:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:52:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:52:05 --> Total execution time: 0.5892
+DEBUG - 2017-07-14 10:52:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:52:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:52:08 --> Total execution time: 0.6992
+DEBUG - 2017-07-14 10:53:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:53:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:53:18 --> Total execution time: 0.6804
+DEBUG - 2017-07-14 10:53:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:53:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:53:22 --> Total execution time: 0.7185
+DEBUG - 2017-07-14 10:55:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:55:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:56:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:56:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:56:04 --> Total execution time: 0.6125
+DEBUG - 2017-07-14 10:56:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:56:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:56:05 --> Total execution time: 0.6547
+DEBUG - 2017-07-14 10:56:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:56:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:56:13 --> Total execution time: 0.6391
+DEBUG - 2017-07-14 10:56:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:56:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:56:14 --> Total execution time: 0.6000
+DEBUG - 2017-07-14 10:56:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:56:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:56:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:56:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:56:38 --> Total execution time: 0.7333
+DEBUG - 2017-07-14 10:56:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 10:56:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 10:56:39 --> Total execution time: 0.7048
+DEBUG - 2017-07-14 11:03:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:03:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:03:09 --> Total execution time: 0.8224
+DEBUG - 2017-07-14 11:03:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:03:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:03:10 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 95
+ERROR - 2017-07-14 11:03:10 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 99
+ERROR - 2017-07-14 11:03:10 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 103
+ERROR - 2017-07-14 11:03:10 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 107
+ERROR - 2017-07-14 11:03:10 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 111
+ERROR - 2017-07-14 11:03:10 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 115
+ERROR - 2017-07-14 11:03:10 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 119
+DEBUG - 2017-07-14 11:03:10 --> Total execution time: 0.9241
+DEBUG - 2017-07-14 11:05:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:05:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:05:54 --> Total execution time: 0.5974
+DEBUG - 2017-07-14 11:05:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:05:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:05:55 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 95
+ERROR - 2017-07-14 11:05:55 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 99
+ERROR - 2017-07-14 11:05:55 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 103
+ERROR - 2017-07-14 11:05:55 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 107
+ERROR - 2017-07-14 11:05:56 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 111
+ERROR - 2017-07-14 11:05:56 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 115
+ERROR - 2017-07-14 11:05:56 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 119
+ERROR - 2017-07-14 11:05:56 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 139
+DEBUG - 2017-07-14 11:05:56 --> Total execution time: 1.0563
+DEBUG - 2017-07-14 11:06:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:06:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:06:20 --> Total execution time: 0.5946
+DEBUG - 2017-07-14 11:06:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:06:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:06:21 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 95
+ERROR - 2017-07-14 11:06:21 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 99
+ERROR - 2017-07-14 11:06:21 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 103
+ERROR - 2017-07-14 11:06:21 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 107
+ERROR - 2017-07-14 11:06:21 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 111
+ERROR - 2017-07-14 11:06:21 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 115
+ERROR - 2017-07-14 11:06:21 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 119
+ERROR - 2017-07-14 11:06:21 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 139
+DEBUG - 2017-07-14 11:06:21 --> Total execution time: 0.9706
+DEBUG - 2017-07-14 11:07:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:07:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:07:12 --> Total execution time: 0.6268
+DEBUG - 2017-07-14 11:07:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:07:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:07:13 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 95
+ERROR - 2017-07-14 11:07:13 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 99
+ERROR - 2017-07-14 11:07:13 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 103
+ERROR - 2017-07-14 11:07:14 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 107
+ERROR - 2017-07-14 11:07:14 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 111
+ERROR - 2017-07-14 11:07:14 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 115
+ERROR - 2017-07-14 11:07:14 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 119
+ERROR - 2017-07-14 11:07:14 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.html 139
+DEBUG - 2017-07-14 11:07:14 --> Total execution time: 0.9968
+DEBUG - 2017-07-14 11:08:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:08:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:08:38 --> Total execution time: 0.5802
+DEBUG - 2017-07-14 11:08:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:08:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:08:39 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.php 95
+ERROR - 2017-07-14 11:08:39 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.php 99
+ERROR - 2017-07-14 11:08:39 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.php 103
+ERROR - 2017-07-14 11:08:39 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.php 107
+ERROR - 2017-07-14 11:08:40 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.php 111
+ERROR - 2017-07-14 11:08:40 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.php 115
+ERROR - 2017-07-14 11:08:40 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.php 119
+ERROR - 2017-07-14 11:08:40 --> Severity: Notice --> Undefined variable: server /vagrant/svn_projects/php-weapp-demo/application/views/backend/welcome.php 139
+DEBUG - 2017-07-14 11:08:40 --> Total execution time: 0.9390
+DEBUG - 2017-07-14 11:11:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:11:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:00 --> Total execution time: 0.6110
+DEBUG - 2017-07-14 11:12:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:01 --> Total execution time: 0.5716
+DEBUG - 2017-07-14 11:12:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:26 --> Total execution time: 0.6253
+DEBUG - 2017-07-14 11:12:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:12:30 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-14 11:12:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:40 --> Total execution time: 0.7238
+DEBUG - 2017-07-14 11:12:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:50 --> Total execution time: 0.5867
+DEBUG - 2017-07-14 11:12:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:53 --> Total execution time: 0.5517
+DEBUG - 2017-07-14 11:12:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:55 --> Total execution time: 0.5777
+DEBUG - 2017-07-14 11:12:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:12:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:12:56 --> Total execution time: 0.5494
+DEBUG - 2017-07-14 11:13:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:13:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:13:08 --> Total execution time: 0.5571
+DEBUG - 2017-07-14 11:13:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:13:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:13:12 --> Total execution time: 0.8124
+DEBUG - 2017-07-14 11:14:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:14:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:14:36 --> Total execution time: 0.6051
+DEBUG - 2017-07-14 11:14:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:14:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:14:37 --> Total execution time: 0.5534
+DEBUG - 2017-07-14 11:15:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:15:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:15:24 --> Total execution time: 0.6459
+DEBUG - 2017-07-14 11:15:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:15:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:15:25 --> Total execution time: 0.5791
+DEBUG - 2017-07-14 11:15:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:15:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:15:28 --> Total execution time: 0.6748
+DEBUG - 2017-07-14 11:15:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:15:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:15:49 --> Total execution time: 0.6437
+DEBUG - 2017-07-14 11:15:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:15:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:15:50 --> Total execution time: 0.5542
+DEBUG - 2017-07-14 11:15:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:15:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:15:53 --> Total execution time: 0.6388
+DEBUG - 2017-07-14 11:33:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:33:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:33:35 --> Total execution time: 0.5627
+DEBUG - 2017-07-14 11:33:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:33:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:33:36 --> Total execution time: 0.5372
+DEBUG - 2017-07-14 11:33:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:33:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:33:41 --> Total execution time: 0.5611
+DEBUG - 2017-07-14 11:33:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:33:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:33:42 --> 404 Page Not Found: backend/Backend/image_list
+DEBUG - 2017-07-14 11:38:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:38:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:38:09 --> Total execution time: 0.5747
+DEBUG - 2017-07-14 11:38:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:38:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:38:10 --> Total execution time: 0.5495
+DEBUG - 2017-07-14 11:38:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:38:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:38:13 --> Total execution time: 0.5678
+DEBUG - 2017-07-14 11:38:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:38:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:38:14 --> 404 Page Not Found: backend/Backend/image_list
+DEBUG - 2017-07-14 11:39:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:39:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:39:54 --> Severity: Notice --> Undefined variable: draw /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Image.php 24
+ERROR - 2017-07-14 11:39:54 --> Severity: Notice --> Undefined variable: total /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Image.php 25
+ERROR - 2017-07-14 11:39:54 --> Severity: Notice --> Undefined variable: total /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Image.php 26
+ERROR - 2017-07-14 11:39:54 --> Severity: Notice --> Undefined variable: data /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Image.php 28
+DEBUG - 2017-07-14 11:39:54 --> Total execution time: 1.3089
+DEBUG - 2017-07-14 11:40:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:40:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:40:59 --> Severity: Notice --> Undefined index: draw /vagrant/svn_projects/php-weapp-demo/application/controllers/backend/Image.php 19
+DEBUG - 2017-07-14 11:40:59 --> Total execution time: 0.6617
+DEBUG - 2017-07-14 11:41:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:41:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:41:38 --> Total execution time: 0.6794
+DEBUG - 2017-07-14 11:41:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:41:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:41:46 --> Total execution time: 0.6697
+DEBUG - 2017-07-14 11:42:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:42:11 --> Total execution time: 0.5616
+DEBUG - 2017-07-14 11:42:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:42:12 --> Total execution time: 0.5489
+DEBUG - 2017-07-14 11:42:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:42:15 --> Total execution time: 0.5707
+DEBUG - 2017-07-14 11:42:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:42:16 --> 404 Page Not Found: backend/Backend/image_list
+DEBUG - 2017-07-14 11:42:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:42:29 --> Total execution time: 0.5772
+DEBUG - 2017-07-14 11:42:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:42:30 --> Total execution time: 0.6634
+DEBUG - 2017-07-14 11:42:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:42:34 --> Total execution time: 0.6329
+DEBUG - 2017-07-14 11:42:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:35 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:42:35 --> 404 Page Not Found: backend/Backend/image_list
+DEBUG - 2017-07-14 11:42:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:42:42 --> 404 Page Not Found: backend/Backend/image_list
+DEBUG - 2017-07-14 11:42:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:42:53 --> Total execution time: 0.5559
+DEBUG - 2017-07-14 11:42:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:42:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:42:54 --> 404 Page Not Found: backend/Image_list/index
+DEBUG - 2017-07-14 11:43:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:43:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:43:01 --> 404 Page Not Found: backend/Image_list/index
+DEBUG - 2017-07-14 11:43:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:43:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:43:16 --> Total execution time: 0.5858
+DEBUG - 2017-07-14 11:43:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:43:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:43:17 --> Total execution time: 0.6405
+DEBUG - 2017-07-14 11:43:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:43:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:43:24 --> Total execution time: 0.5636
+DEBUG - 2017-07-14 11:43:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:43:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:43:25 --> Total execution time: 0.5739
+DEBUG - 2017-07-14 11:43:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:43:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:43:59 --> Total execution time: 0.5908
+DEBUG - 2017-07-14 11:44:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:44:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:44:00 --> Total execution time: 0.6851
+DEBUG - 2017-07-14 11:44:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:44:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:44:29 --> Total execution time: 0.5505
+DEBUG - 2017-07-14 11:44:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:44:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:44:30 --> Total execution time: 0.5559
+DEBUG - 2017-07-14 11:44:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:44:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:44:34 --> Total execution time: 0.5628
+DEBUG - 2017-07-14 11:44:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:44:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:44:35 --> Total execution time: 0.5745
+DEBUG - 2017-07-14 11:44:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:44:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:44:54 --> Total execution time: 0.6189
+DEBUG - 2017-07-14 11:44:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:44:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:44:55 --> Total execution time: 0.6266
+DEBUG - 2017-07-14 11:44:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:44:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:44:58 --> Total execution time: 0.5752
+DEBUG - 2017-07-14 11:44:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:44:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:44:59 --> Total execution time: 0.6504
+DEBUG - 2017-07-14 11:45:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:45:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:45:36 --> Total execution time: 0.6009
+DEBUG - 2017-07-14 11:45:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:45:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:45:37 --> Total execution time: 0.5807
+DEBUG - 2017-07-14 11:46:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:09 --> Total execution time: 0.5784
+DEBUG - 2017-07-14 11:46:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:10 --> Total execution time: 0.5961
+DEBUG - 2017-07-14 11:46:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:11 --> Total execution time: 0.6071
+DEBUG - 2017-07-14 11:46:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:12 --> Total execution time: 0.5786
+DEBUG - 2017-07-14 11:46:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:28 --> Total execution time: 0.5709
+DEBUG - 2017-07-14 11:46:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:29 --> Total execution time: 0.5752
+DEBUG - 2017-07-14 11:46:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:31 --> Total execution time: 0.5838
+DEBUG - 2017-07-14 11:46:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:32 --> Total execution time: 0.5741
+DEBUG - 2017-07-14 11:46:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:47 --> Total execution time: 0.6404
+DEBUG - 2017-07-14 11:46:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:48 --> Total execution time: 0.7444
+DEBUG - 2017-07-14 11:46:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:58 --> Total execution time: 0.6122
+DEBUG - 2017-07-14 11:46:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:46:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:46:59 --> Total execution time: 0.6260
+DEBUG - 2017-07-14 11:47:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:47:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:47:53 --> Total execution time: 0.6114
+DEBUG - 2017-07-14 11:47:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:47:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:47:54 --> Total execution time: 0.5609
+DEBUG - 2017-07-14 11:47:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:47:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:47:57 --> Total execution time: 0.5717
+DEBUG - 2017-07-14 11:47:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:47:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:47:58 --> Total execution time: 0.5809
+DEBUG - 2017-07-14 11:48:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:48:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:48:31 --> Total execution time: 0.5631
+DEBUG - 2017-07-14 11:48:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:48:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:48:32 --> Total execution time: 0.5561
+DEBUG - 2017-07-14 11:48:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:48:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:48:35 --> Total execution time: 0.5743
+DEBUG - 2017-07-14 11:48:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:48:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:48:36 --> Total execution time: 0.5686
+DEBUG - 2017-07-14 11:48:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:48:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:48:48 --> Total execution time: 0.5575
+DEBUG - 2017-07-14 11:48:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:48:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:48:49 --> Total execution time: 0.5464
+DEBUG - 2017-07-14 11:48:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:48:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:48:54 --> Total execution time: 0.5611
+DEBUG - 2017-07-14 11:48:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:48:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:48:55 --> Total execution time: 0.5884
+DEBUG - 2017-07-14 11:49:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:49:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:49:27 --> Total execution time: 0.6301
+DEBUG - 2017-07-14 11:49:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:49:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:49:27 --> Total execution time: 0.5776
+DEBUG - 2017-07-14 11:49:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:49:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:49:30 --> Total execution time: 0.5575
+DEBUG - 2017-07-14 11:49:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:49:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:49:32 --> Total execution time: 0.5795
+DEBUG - 2017-07-14 11:49:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:49:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:49:34 --> Total execution time: 0.5654
+DEBUG - 2017-07-14 11:49:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:49:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:49:36 --> Total execution time: 0.5892
+DEBUG - 2017-07-14 11:49:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:49:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:49:37 --> Total execution time: 0.5626
+DEBUG - 2017-07-14 11:49:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:49:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:49:39 --> Total execution time: 0.5832
+DEBUG - 2017-07-14 11:49:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:49:40 --> Total execution time: 0.6026
+DEBUG - 2017-07-14 11:49:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:49:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:49:59 --> Total execution time: 0.6409
+DEBUG - 2017-07-14 11:50:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:50:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:50:00 --> Total execution time: 0.6783
+DEBUG - 2017-07-14 11:50:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:50:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:50:04 --> Total execution time: 0.5683
+DEBUG - 2017-07-14 11:50:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:50:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:50:07 --> Total execution time: 0.5771
+DEBUG - 2017-07-14 11:50:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:50:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 11:50:32 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-14 11:52:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:52:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:52:27 --> Total execution time: 0.7226
+DEBUG - 2017-07-14 11:52:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:52:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:52:28 --> Total execution time: 0.8576
+DEBUG - 2017-07-14 11:52:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:52:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:52:31 --> Total execution time: 0.5823
+DEBUG - 2017-07-14 11:52:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:52:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:52:32 --> Total execution time: 0.6085
+DEBUG - 2017-07-14 11:52:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:52:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:52:48 --> Total execution time: 0.5791
+DEBUG - 2017-07-14 11:52:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:52:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:52:49 --> Total execution time: 0.5941
+DEBUG - 2017-07-14 11:52:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:52:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:52:53 --> Total execution time: 0.5706
+DEBUG - 2017-07-14 11:52:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:52:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:52:54 --> Total execution time: 0.5926
+DEBUG - 2017-07-14 11:54:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:54:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:54:37 --> Total execution time: 0.5387
+DEBUG - 2017-07-14 11:54:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:54:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:54:38 --> Total execution time: 0.6594
+DEBUG - 2017-07-14 11:54:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:54:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:54:39 --> Total execution time: 0.6619
+DEBUG - 2017-07-14 11:54:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:54:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:54:49 --> Total execution time: 0.5604
+DEBUG - 2017-07-14 11:54:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:54:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:54:50 --> Total execution time: 0.5610
+DEBUG - 2017-07-14 11:55:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:55:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:55:48 --> Total execution time: 0.6557
+DEBUG - 2017-07-14 11:55:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:55:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:55:51 --> Total execution time: 0.5846
+DEBUG - 2017-07-14 11:55:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 11:55:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 11:55:53 --> Total execution time: 0.6322
+DEBUG - 2017-07-14 12:56:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:12 --> Total execution time: 0.5691
+DEBUG - 2017-07-14 12:56:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:13 --> Total execution time: 0.5714
+DEBUG - 2017-07-14 12:56:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:18 --> Total execution time: 0.5791
+DEBUG - 2017-07-14 12:56:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:19 --> Total execution time: 0.5944
+DEBUG - 2017-07-14 12:56:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:22 --> Total execution time: 0.6131
+DEBUG - 2017-07-14 12:56:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:25 --> Total execution time: 0.5551
+DEBUG - 2017-07-14 12:56:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:26 --> Total execution time: 0.5617
+DEBUG - 2017-07-14 12:56:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:28 --> Total execution time: 0.5723
+DEBUG - 2017-07-14 12:56:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:29 --> Total execution time: 0.5840
+DEBUG - 2017-07-14 12:56:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:54 --> Total execution time: 0.5493
+DEBUG - 2017-07-14 12:56:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:56:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:56:55 --> Total execution time: 0.5986
+DEBUG - 2017-07-14 12:57:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:57:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:57:03 --> Total execution time: 0.5690
+DEBUG - 2017-07-14 12:57:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:57:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:57:04 --> Total execution time: 0.5940
+DEBUG - 2017-07-14 12:59:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:59:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:59:10 --> Total execution time: 0.6810
+DEBUG - 2017-07-14 12:59:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:59:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:59:11 --> Total execution time: 0.5597
+DEBUG - 2017-07-14 12:59:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:59:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:59:13 --> Total execution time: 0.5953
+DEBUG - 2017-07-14 12:59:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:59:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:59:14 --> Total execution time: 0.5875
+DEBUG - 2017-07-14 12:59:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:59:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:59:16 --> Total execution time: 0.5356
+DEBUG - 2017-07-14 12:59:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:59:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:59:17 --> Total execution time: 0.5697
+DEBUG - 2017-07-14 12:59:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 12:59:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 12:59:29 --> Total execution time: 0.5700
+DEBUG - 2017-07-14 13:01:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:01:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:01:04 --> Total execution time: 0.5638
+DEBUG - 2017-07-14 13:01:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:01:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:01:05 --> Total execution time: 0.5455
+DEBUG - 2017-07-14 13:01:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:01:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:01:07 --> Total execution time: 0.5566
+DEBUG - 2017-07-14 13:01:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:01:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:01:08 --> Total execution time: 0.5870
+DEBUG - 2017-07-14 13:01:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:01:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:01:09 --> Total execution time: 0.5430
+DEBUG - 2017-07-14 13:01:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:01:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:01:10 --> Total execution time: 0.5527
+DEBUG - 2017-07-14 13:01:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:01:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:01:29 --> Total execution time: 0.5805
+DEBUG - 2017-07-14 13:01:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:01:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:01:31 --> Total execution time: 0.5716
+DEBUG - 2017-07-14 13:01:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:01:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:01:37 --> Total execution time: 0.5889
+DEBUG - 2017-07-14 13:02:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:10 --> Total execution time: 0.6164
+DEBUG - 2017-07-14 13:02:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:11 --> Total execution time: 0.5575
+DEBUG - 2017-07-14 13:02:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:14 --> Total execution time: 0.5847
+DEBUG - 2017-07-14 13:02:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:15 --> Total execution time: 0.5922
+DEBUG - 2017-07-14 13:02:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:20 --> Total execution time: 0.7447
+DEBUG - 2017-07-14 13:02:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:20 --> Total execution time: 0.6893
+DEBUG - 2017-07-14 13:02:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:25 --> Total execution time: 0.5724
+DEBUG - 2017-07-14 13:02:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:28 --> Total execution time: 0.5788
+DEBUG - 2017-07-14 13:02:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:30 --> Total execution time: 0.5877
+DEBUG - 2017-07-14 13:02:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:37 --> Total execution time: 0.5842
+DEBUG - 2017-07-14 13:02:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:40 --> Total execution time: 0.6184
+DEBUG - 2017-07-14 13:02:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:02:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:02:56 --> Total execution time: 0.6032
+DEBUG - 2017-07-14 13:03:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:03:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:03:14 --> Total execution time: 0.5573
+DEBUG - 2017-07-14 13:03:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:03:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:03:14 --> Total execution time: 0.5862
+DEBUG - 2017-07-14 13:03:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:03:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:03:18 --> Total execution time: 0.5611
+DEBUG - 2017-07-14 13:10:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:10:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:10:06 --> Total execution time: 0.6249
+DEBUG - 2017-07-14 13:20:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:20:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:20:39 --> Total execution time: 0.5794
+DEBUG - 2017-07-14 13:20:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:20:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:20:40 --> Total execution time: 0.5979
+DEBUG - 2017-07-14 13:20:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:20:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:20:42 --> Total execution time: 0.6008
+DEBUG - 2017-07-14 13:20:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:20:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:20:43 --> Total execution time: 0.5592
+DEBUG - 2017-07-14 13:20:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:20:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:20:47 --> Total execution time: 0.5797
+DEBUG - 2017-07-14 13:20:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:20:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:20:48 --> Total execution time: 0.5617
+DEBUG - 2017-07-14 13:22:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:22:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:22:38 --> Total execution time: 0.5564
+DEBUG - 2017-07-14 13:22:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:22:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:22:43 --> Total execution time: 0.5520
+DEBUG - 2017-07-14 13:22:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:22:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:22:46 --> Total execution time: 0.5577
+DEBUG - 2017-07-14 13:22:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:22:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:22:47 --> Total execution time: 0.5439
+DEBUG - 2017-07-14 13:22:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:22:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:22:49 --> Total execution time: 0.5721
+DEBUG - 2017-07-14 13:23:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:23:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:23:17 --> Total execution time: 0.5539
+DEBUG - 2017-07-14 13:23:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:23:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:23:18 --> Total execution time: 0.5488
+DEBUG - 2017-07-14 13:23:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:23:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:23:21 --> Total execution time: 0.5984
+DEBUG - 2017-07-14 13:23:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:23:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:23:22 --> Total execution time: 0.6103
+DEBUG - 2017-07-14 13:23:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:23:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:23:35 --> Total execution time: 0.5704
+DEBUG - 2017-07-14 13:23:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:23:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:23:36 --> Total execution time: 0.5518
+DEBUG - 2017-07-14 13:23:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:23:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:23:39 --> Total execution time: 0.5772
+DEBUG - 2017-07-14 13:23:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:23:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:23:40 --> Total execution time: 0.5993
+DEBUG - 2017-07-14 13:23:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:23:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:23:52 --> Total execution time: 0.5924
+DEBUG - 2017-07-14 13:24:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:24:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:24:45 --> Total execution time: 0.5871
+DEBUG - 2017-07-14 13:24:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:24:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:24:46 --> Total execution time: 0.5979
+DEBUG - 2017-07-14 13:24:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:24:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:24:49 --> Total execution time: 0.6116
+DEBUG - 2017-07-14 13:24:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:24:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:24:50 --> Total execution time: 0.6213
+DEBUG - 2017-07-14 13:24:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:24:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:24:54 --> Total execution time: 0.6608
+DEBUG - 2017-07-14 13:24:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:24:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:24:54 --> Total execution time: 0.6525
+DEBUG - 2017-07-14 13:24:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:24:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:24:55 --> Total execution time: 0.6164
+DEBUG - 2017-07-14 13:26:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:26:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:26:26 --> Total execution time: 0.5543
+DEBUG - 2017-07-14 13:26:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:26:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:26:27 --> Total execution time: 0.5322
+DEBUG - 2017-07-14 13:26:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:26:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:26:32 --> Total execution time: 0.5624
+DEBUG - 2017-07-14 13:26:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:26:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:26:33 --> Total execution time: 0.5929
+DEBUG - 2017-07-14 13:26:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:26:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:26:36 --> Total execution time: 0.6037
+DEBUG - 2017-07-14 13:26:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 13:26:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 13:26:38 --> Total execution time: 0.6122
+DEBUG - 2017-07-14 16:12:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:12:14 --> Total execution time: 1.3080
+DEBUG - 2017-07-14 16:12:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:12:16 --> Total execution time: 0.6305
+DEBUG - 2017-07-14 16:12:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:12:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:19 --> Total execution time: 0.7111
+DEBUG - 2017-07-14 16:12:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:12:19 --> Total execution time: 0.7144
+DEBUG - 2017-07-14 16:12:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:12:25 --> Total execution time: 0.6220
+DEBUG - 2017-07-14 16:12:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:12:48 --> Total execution time: 1.0832
+DEBUG - 2017-07-14 16:12:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:12:49 --> Total execution time: 0.5991
+DEBUG - 2017-07-14 16:12:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:50 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 16:12:50 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-14 16:12:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:12:52 --> Total execution time: 0.5976
+DEBUG - 2017-07-14 16:12:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:12:53 --> Total execution time: 0.5714
+DEBUG - 2017-07-14 16:12:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:12:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:12:57 --> Total execution time: 0.5888
+DEBUG - 2017-07-14 16:13:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:13:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:13:04 --> Total execution time: 0.5860
+DEBUG - 2017-07-14 16:13:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:13:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:13:11 --> Total execution time: 0.5956
+DEBUG - 2017-07-14 16:14:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:14:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:14:24 --> Total execution time: 0.6286
+DEBUG - 2017-07-14 16:15:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:15:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:15:08 --> Total execution time: 0.5465
+DEBUG - 2017-07-14 16:15:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:15:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:15:09 --> Total execution time: 0.5686
+DEBUG - 2017-07-14 16:15:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:15:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:15:39 --> Total execution time: 0.6376
+DEBUG - 2017-07-14 16:15:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:15:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:15:42 --> Total execution time: 0.6818
+DEBUG - 2017-07-14 16:16:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:16:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:16:21 --> Total execution time: 0.5971
+DEBUG - 2017-07-14 16:16:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:16:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:16:22 --> Total execution time: 0.6103
+DEBUG - 2017-07-14 16:16:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:16:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:16:26 --> Total execution time: 0.6086
+DEBUG - 2017-07-14 16:16:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:16:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:16:27 --> Total execution time: 0.6099
+DEBUG - 2017-07-14 16:16:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:16:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:16:44 --> Total execution time: 0.6064
+DEBUG - 2017-07-14 16:16:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:16:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:16:45 --> Total execution time: 0.5802
+DEBUG - 2017-07-14 16:16:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:16:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:16:47 --> Total execution time: 0.6036
+DEBUG - 2017-07-14 16:16:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:16:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:16:48 --> Total execution time: 0.5926
+DEBUG - 2017-07-14 16:23:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:23:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:23:12 --> Total execution time: 0.6121
+DEBUG - 2017-07-14 16:23:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:23:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:23:34 --> Total execution time: 0.5666
+DEBUG - 2017-07-14 16:23:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:23:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:23:36 --> Total execution time: 0.5550
+DEBUG - 2017-07-14 16:23:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:23:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:23:39 --> Total execution time: 0.5683
+DEBUG - 2017-07-14 16:23:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:23:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:23:40 --> Total execution time: 0.5889
+DEBUG - 2017-07-14 16:23:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:23:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:23:41 --> Total execution time: 0.5644
+DEBUG - 2017-07-14 16:23:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:23:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:23:43 --> Total execution time: 0.5775
+DEBUG - 2017-07-14 16:23:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:23:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:23:45 --> Total execution time: 0.5824
+DEBUG - 2017-07-14 16:23:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:23:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:23:46 --> Total execution time: 0.5848
+DEBUG - 2017-07-14 16:23:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:23:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:23:59 --> Total execution time: 0.5977
+DEBUG - 2017-07-14 16:47:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:47:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:47:35 --> Total execution time: 0.5971
+DEBUG - 2017-07-14 16:47:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:47:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:47:37 --> Total execution time: 0.7076
+DEBUG - 2017-07-14 16:47:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:47:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:47:45 --> Total execution time: 0.6601
+DEBUG - 2017-07-14 16:47:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:47:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:47:46 --> Total execution time: 0.6111
+DEBUG - 2017-07-14 16:48:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:48:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:48:26 --> Total execution time: 0.5965
+DEBUG - 2017-07-14 16:48:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:48:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:48:27 --> Total execution time: 0.5994
+DEBUG - 2017-07-14 16:48:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:48:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:48:30 --> Total execution time: 0.7157
+DEBUG - 2017-07-14 16:48:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:48:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:48:31 --> Total execution time: 0.6394
+DEBUG - 2017-07-14 16:49:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:49:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:49:25 --> Total execution time: 0.5885
+DEBUG - 2017-07-14 16:49:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:49:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:49:26 --> Total execution time: 0.6352
+DEBUG - 2017-07-14 16:50:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:50:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:50:35 --> Total execution time: 0.5563
+DEBUG - 2017-07-14 16:50:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:50:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:50:36 --> Total execution time: 0.6916
+DEBUG - 2017-07-14 16:55:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:55:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:55:48 --> Total execution time: 0.6212
+DEBUG - 2017-07-14 16:55:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:55:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:55:49 --> Total execution time: 0.5940
+DEBUG - 2017-07-14 16:58:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:58:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:58:08 --> Total execution time: 0.6159
+DEBUG - 2017-07-14 16:58:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:58:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:58:09 --> Total execution time: 0.5892
+DEBUG - 2017-07-14 16:58:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:58:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:58:10 --> Total execution time: 0.5922
+DEBUG - 2017-07-14 16:58:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:58:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:58:12 --> Total execution time: 0.6198
+DEBUG - 2017-07-14 16:58:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:58:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:58:47 --> Total execution time: 0.5835
+DEBUG - 2017-07-14 16:58:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:58:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:58:48 --> Total execution time: 0.6535
+DEBUG - 2017-07-14 16:58:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:58:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:58:50 --> Total execution time: 0.5847
+DEBUG - 2017-07-14 16:58:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:58:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:58:52 --> Total execution time: 0.6193
+DEBUG - 2017-07-14 16:59:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:59:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:59:28 --> Total execution time: 0.5736
+DEBUG - 2017-07-14 16:59:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 16:59:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 16:59:29 --> Total execution time: 0.6097
+DEBUG - 2017-07-14 17:04:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:04:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:04:15 --> Total execution time: 0.5947
+DEBUG - 2017-07-14 17:04:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:04:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:04:16 --> Total execution time: 0.5899
+DEBUG - 2017-07-14 17:04:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:04:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:04:19 --> Total execution time: 0.5936
+DEBUG - 2017-07-14 17:04:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:04:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:04:20 --> Total execution time: 0.6237
+DEBUG - 2017-07-14 17:04:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:04:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:04:30 --> Total execution time: 0.6102
+DEBUG - 2017-07-14 17:04:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:04:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:04:31 --> Total execution time: 0.6258
+DEBUG - 2017-07-14 17:04:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:04:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:04:41 --> Total execution time: 0.5929
+DEBUG - 2017-07-14 17:05:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:05:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:05:26 --> Total execution time: 0.6078
+DEBUG - 2017-07-14 17:05:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:05:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:05:27 --> Total execution time: 0.6341
+DEBUG - 2017-07-14 17:11:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:11:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:11:41 --> Total execution time: 0.6396
+DEBUG - 2017-07-14 17:11:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:11:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:11:42 --> Total execution time: 0.5915
+DEBUG - 2017-07-14 17:12:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:12:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:12:17 --> Total execution time: 0.6008
+DEBUG - 2017-07-14 17:12:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:12:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:12:18 --> Total execution time: 0.6157
+DEBUG - 2017-07-14 17:16:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:16:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:16:44 --> Total execution time: 0.5919
+DEBUG - 2017-07-14 17:16:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:16:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:16:45 --> Total execution time: 0.5971
+DEBUG - 2017-07-14 17:17:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:17:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:17:15 --> Total execution time: 0.5611
+DEBUG - 2017-07-14 17:17:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:17:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:17:16 --> Total execution time: 0.5957
+DEBUG - 2017-07-14 17:18:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:18:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:18:26 --> Total execution time: 0.5705
+DEBUG - 2017-07-14 17:18:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:18:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:18:26 --> Total execution time: 0.5610
+DEBUG - 2017-07-14 17:18:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:18:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 17:18:28 --> 404 Page Not Found: AboutHuishtml/index
+DEBUG - 2017-07-14 17:18:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:18:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:18:32 --> Total execution time: 0.6604
+DEBUG - 2017-07-14 17:20:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:20:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:20:13 --> Total execution time: 0.6046
+DEBUG - 2017-07-14 17:20:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:20:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:20:18 --> Total execution time: 0.6157
+DEBUG - 2017-07-14 17:25:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:25:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:25:59 --> Total execution time: 0.8726
+DEBUG - 2017-07-14 17:26:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:26:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:26:04 --> Total execution time: 0.6015
+DEBUG - 2017-07-14 17:26:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:26:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:26:05 --> Total execution time: 0.5679
+DEBUG - 2017-07-14 17:26:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:26:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:26:10 --> Total execution time: 0.5948
+DEBUG - 2017-07-14 17:26:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:26:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:26:45 --> Total execution time: 0.6109
+DEBUG - 2017-07-14 17:26:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:26:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:26:46 --> Total execution time: 0.6520
+DEBUG - 2017-07-14 17:28:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:28:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:28:31 --> Total execution time: 0.5711
+DEBUG - 2017-07-14 17:29:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:29:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:29:32 --> Total execution time: 0.6205
+DEBUG - 2017-07-14 17:29:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:29:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:29:33 --> Total execution time: 0.6802
+DEBUG - 2017-07-14 17:29:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:29:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:29:50 --> Total execution time: 0.6080
+DEBUG - 2017-07-14 17:29:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:29:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:29:51 --> Total execution time: 0.6035
+DEBUG - 2017-07-14 17:29:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:29:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:29:53 --> Total execution time: 0.6614
+DEBUG - 2017-07-14 17:29:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:29:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:29:54 --> Total execution time: 0.6046
+DEBUG - 2017-07-14 17:32:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:32:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:32:36 --> Total execution time: 0.6125
+DEBUG - 2017-07-14 17:32:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:32:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:32:37 --> Total execution time: 0.6179
+DEBUG - 2017-07-14 17:32:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:32:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:32:40 --> Total execution time: 0.5984
+DEBUG - 2017-07-14 17:32:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:32:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:32:50 --> Total execution time: 0.5877
+DEBUG - 2017-07-14 17:33:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:33:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:33:50 --> Total execution time: 0.6273
+DEBUG - 2017-07-14 17:34:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:34:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:34:02 --> Total execution time: 0.8668
+DEBUG - 2017-07-14 17:34:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:34:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:34:04 --> Total execution time: 0.6311
+DEBUG - 2017-07-14 17:34:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:34:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:34:09 --> Total execution time: 0.6038
+DEBUG - 2017-07-14 17:34:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:34:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:34:10 --> Total execution time: 0.6051
+DEBUG - 2017-07-14 17:34:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:34:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:34:28 --> Total execution time: 0.6434
+DEBUG - 2017-07-14 17:34:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:34:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:34:30 --> Total execution time: 0.6327
+DEBUG - 2017-07-14 17:39:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:39:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:39:06 --> Total execution time: 0.6044
+DEBUG - 2017-07-14 17:39:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:39:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:39:07 --> Total execution time: 0.6104
+DEBUG - 2017-07-14 17:39:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:39:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:39:47 --> Total execution time: 0.5706
+DEBUG - 2017-07-14 17:39:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:39:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:39:48 --> Total execution time: 0.6350
+DEBUG - 2017-07-14 17:40:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:40:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:40:00 --> Total execution time: 0.6621
+DEBUG - 2017-07-14 17:40:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:40:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:40:02 --> Total execution time: 0.8406
+DEBUG - 2017-07-14 17:40:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:40:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:40:13 --> Total execution time: 0.6048
+DEBUG - 2017-07-14 17:40:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:40:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:40:14 --> Total execution time: 0.6078
+DEBUG - 2017-07-14 17:43:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:43:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:43:59 --> Total execution time: 0.6232
+DEBUG - 2017-07-14 17:44:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:44:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:44:00 --> Total execution time: 0.7512
+DEBUG - 2017-07-14 17:44:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:44:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 17:44:05 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-14 17:46:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:46:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:46:20 --> Total execution time: 0.6456
+DEBUG - 2017-07-14 17:46:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:46:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:46:22 --> Total execution time: 0.8111
+DEBUG - 2017-07-14 17:46:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:46:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 17:46:28 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-14 17:48:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:48:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:48:31 --> Total execution time: 0.6457
+DEBUG - 2017-07-14 17:48:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 17:48:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 17:48:33 --> Total execution time: 0.6943
+DEBUG - 2017-07-14 18:10:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:10:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 18:10:25 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-14 18:10:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:10:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:10:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:10:33 --> Total execution time: 1.1683
+DEBUG - 2017-07-14 18:10:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:10:33 --> Total execution time: 1.0530
+DEBUG - 2017-07-14 18:10:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:10:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:10:35 --> Total execution time: 0.7317
+DEBUG - 2017-07-14 18:12:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:12:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:12:19 --> Total execution time: 0.6609
+DEBUG - 2017-07-14 18:12:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:12:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:12:20 --> Total execution time: 0.5843
+DEBUG - 2017-07-14 18:12:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:12:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:12:58 --> Total execution time: 0.6426
+DEBUG - 2017-07-14 18:12:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:12:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:12:59 --> Total execution time: 0.5883
+DEBUG - 2017-07-14 18:13:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:13:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:13:01 --> Total execution time: 0.6926
+DEBUG - 2017-07-14 18:13:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:13:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:13:02 --> Total execution time: 0.9860
+DEBUG - 2017-07-14 18:16:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:16:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:16:25 --> Total execution time: 0.6680
+DEBUG - 2017-07-14 18:16:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:16:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:16:26 --> Total execution time: 0.5600
+DEBUG - 2017-07-14 18:16:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:16:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:16:29 --> Total execution time: 0.6009
+DEBUG - 2017-07-14 18:16:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:16:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:16:30 --> Total execution time: 0.6215
+DEBUG - 2017-07-14 18:16:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:16:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-14 18:16:32 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-14 18:16:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:16:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:16:46 --> Total execution time: 0.5841
+DEBUG - 2017-07-14 18:16:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:16:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:16:48 --> Total execution time: 0.6127
+DEBUG - 2017-07-14 18:16:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:16:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:16:49 --> Total execution time: 0.6443
+DEBUG - 2017-07-14 18:17:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:17:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:17:07 --> Total execution time: 0.5956
+DEBUG - 2017-07-14 18:17:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:17:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:17:08 --> Total execution time: 0.6213
+DEBUG - 2017-07-14 18:18:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:18:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:18:52 --> Total execution time: 0.5736
+DEBUG - 2017-07-14 18:19:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:19:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:19:07 --> Total execution time: 0.5895
+DEBUG - 2017-07-14 18:19:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:19:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:19:08 --> Total execution time: 0.6218
+DEBUG - 2017-07-14 18:19:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:19:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:19:11 --> Total execution time: 0.5873
+DEBUG - 2017-07-14 18:19:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:19:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:19:12 --> Total execution time: 0.6038
+DEBUG - 2017-07-14 18:21:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:21:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:21:46 --> Total execution time: 0.6141
+DEBUG - 2017-07-14 18:21:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:21:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:21:47 --> Total execution time: 0.5685
+DEBUG - 2017-07-14 18:21:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:21:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:21:51 --> Total execution time: 0.6002
+DEBUG - 2017-07-14 18:21:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:21:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:21:52 --> Total execution time: 0.6144
+DEBUG - 2017-07-14 18:22:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:22:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:22:38 --> Total execution time: 0.6231
+DEBUG - 2017-07-14 18:22:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:22:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:22:40 --> Total execution time: 0.6189
+DEBUG - 2017-07-14 18:22:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:03 --> Total execution time: 4.0544
+DEBUG - 2017-07-14 18:23:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:04 --> Total execution time: 4.6128
+DEBUG - 2017-07-14 18:23:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:04 --> Total execution time: 4.6322
+DEBUG - 2017-07-14 18:23:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:05 --> Total execution time: 4.4246
+DEBUG - 2017-07-14 18:23:05 --> Total execution time: 4.0085
+DEBUG - 2017-07-14 18:23:05 --> Total execution time: 3.6975
+DEBUG - 2017-07-14 18:23:05 --> Total execution time: 3.9884
+DEBUG - 2017-07-14 18:23:05 --> Total execution time: 3.8180
+DEBUG - 2017-07-14 18:23:05 --> Total execution time: 3.4082
+DEBUG - 2017-07-14 18:23:05 --> Total execution time: 2.8490
+DEBUG - 2017-07-14 18:23:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:06 --> Total execution time: 0.6370
+DEBUG - 2017-07-14 18:23:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:09 --> Total execution time: 0.6163
+DEBUG - 2017-07-14 18:23:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:10 --> Total execution time: 0.6324
+DEBUG - 2017-07-14 18:23:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:21 --> Total execution time: 0.6094
+DEBUG - 2017-07-14 18:23:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-14 18:23:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-14 18:23:24 --> Total execution time: 0.5985

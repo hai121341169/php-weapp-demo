@@ -1,0 +1,27 @@
+DEBUG - 2017-07-04 10:58:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-04 10:58:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-04 10:58:32 --> 404 Page Not Found: /index
+DEBUG - 2017-07-04 10:58:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-04 10:58:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-04 10:58:33 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-04 10:58:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-04 10:58:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-04 10:58:36 --> Severity: Notice --> Undefined index: file /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 9
+ERROR - 2017-07-04 10:58:36 --> Severity: Notice --> Undefined index: filepath /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 10
+ERROR - 2017-07-04 10:58:36 --> Severity: Notice --> Undefined index: filename /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 10
+ERROR - 2017-07-04 10:58:36 --> Severity: Notice --> Undefined index: filepath /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 11
+DEBUG - 2017-07-04 10:58:36 --> Total execution time: 1.0187
+DEBUG - 2017-07-04 10:58:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-04 10:58:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-04 10:59:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-04 10:59:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-04 11:00:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-04 11:00:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-04 11:00:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-04 11:00:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-04 11:00:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-04 11:00:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-04 11:13:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-04 11:13:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-04 11:16:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-04 11:16:55 --> Global POST, GET and COOKIE data sanitized

@@ -1,0 +1,262 @@
+DEBUG - 2017-06-26 09:28:02 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:28:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:28:03 --> 404 Page Not Found: /index
+DEBUG - 2017-06-26 09:28:04 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:28:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:28:04 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-06-26 09:28:10 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:28:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:28:10 --> 404 Page Not Found: Basic/index
+DEBUG - 2017-06-26 09:28:13 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:28:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:28:14 --> 404 Page Not Found: Basic/index
+DEBUG - 2017-06-26 09:28:18 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:28:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:28:18 --> 404 Page Not Found: Basic/user
+DEBUG - 2017-06-26 09:28:26 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:28:27 --> Global POST, GET and COOKIE data sanitized
+[2017-06-26 09:28:27][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2017-06-26 09:28:27 --> Total execution time: 1.1329
+DEBUG - 2017-06-26 09:30:08 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:30:08 --> Global POST, GET and COOKIE data sanitized
+[2017-06-26 09:30:08][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2017-06-26 09:30:08 --> Total execution time: 0.5601
+DEBUG - 2017-06-26 09:30:25 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:30:25 --> Global POST, GET and COOKIE data sanitized
+[2017-06-26 09:30:25][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2017-06-26 09:30:25 --> Total execution time: 0.6215
+DEBUG - 2017-06-26 09:30:27 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:30:27 --> Global POST, GET and COOKIE data sanitized
+[2017-06-26 09:30:27][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2017-06-26 09:30:27 --> Total execution time: 0.5670
+DEBUG - 2017-06-26 09:30:29 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:30:29 --> Global POST, GET and COOKIE data sanitized
+[2017-06-26 09:30:30][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2017-06-26 09:30:30 --> Total execution time: 0.7182
+DEBUG - 2017-06-26 09:36:14 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:36:14 --> Global POST, GET and COOKIE data sanitized
+[2017-06-26 09:36:15][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2017-06-26 09:36:15 --> Total execution time: 1.0416
+DEBUG - 2017-06-26 09:36:17 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:36:17 --> Global POST, GET and COOKIE data sanitized
+[2017-06-26 09:36:17][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2017-06-26 09:36:17 --> Total execution time: 0.6845
+DEBUG - 2017-06-26 09:36:23 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:36:23 --> Global POST, GET and COOKIE data sanitized
+[2017-06-26 09:36:24][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2017-06-26 09:36:24 --> Total execution time: 0.6822
+DEBUG - 2017-06-26 09:36:31 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:36:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-06-26 09:39:57 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:39:57 --> Global POST, GET and COOKIE data sanitized
+[2017-06-26 09:39:57][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2017-06-26 09:39:57 --> Total execution time: 0.6449
+DEBUG - 2017-06-26 09:41:46 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:41:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:41:47 --> Severity: Error --> Class 'QCloud_WeApp_SDK\Auth\LoginService' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/User.php 8
+DEBUG - 2017-06-26 09:42:09 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:42:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:42:10 --> Severity: Error --> Class 'QCloud_WeApp_SDK\Auth\LoginService' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/User.php 8
+DEBUG - 2017-06-26 09:42:12 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:42:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:42:12 --> Severity: Error --> Class 'QCloud_WeApp_SDK\Auth\LoginService' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/User.php 8
+DEBUG - 2017-06-26 09:42:14 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:42:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:42:15 --> Severity: Error --> Class 'QCloud_WeApp_SDK\Auth\LoginService' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/User.php 8
+DEBUG - 2017-06-26 09:43:02 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:43:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:43:02 --> Severity: Error --> Class 'QCloud_WeApp_SDK\Auth\LoginService' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/User.php 8
+DEBUG - 2017-06-26 09:43:12 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:43:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:43:12 --> Severity: Error --> Class 'QCloud_WeApp_SDK\Auth\LoginService' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/User.php 8
+ERROR - 2017-06-26 09:43:18 --> Severity: Notice --> Undefined variable: composer_autoload /vagrant/svn_projects/php-weapp-demo/system/core/CodeIgniter.php 164
+DEBUG - 2017-06-26 09:44:25 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:44:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-06-26 09:44:26 --> Total execution time: 1.6467
+DEBUG - 2017-06-26 09:44:28 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:44:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-06-26 09:44:29 --> Total execution time: 0.6052
+DEBUG - 2017-06-26 09:44:31 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:44:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-06-26 09:44:31 --> Total execution time: 0.7313
+DEBUG - 2017-06-26 09:49:19 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:49:20 --> Global POST, GET and COOKIE data sanitized
+[2017-06-26 09:49:20][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+DEBUG - 2017-06-26 09:49:20 --> Total execution time: 0.6258
+DEBUG - 2017-06-26 09:49:46 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:49:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:49:47 --> Severity: Notice --> Undefined index: file /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 9
+ERROR - 2017-06-26 09:49:47 --> Severity: Notice --> Undefined index: filepath /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 10
+ERROR - 2017-06-26 09:49:47 --> Severity: Notice --> Undefined index: filename /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 10
+ERROR - 2017-06-26 09:49:47 --> Severity: Notice --> Undefined index: filepath /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 11
+ERROR - 2017-06-26 09:49:47 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 09:50:04 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:50:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:50:05 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 09:50:44 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:50:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:50:45 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 09:50:47 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:50:47 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:50:48 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 09:53:39 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:53:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:53:39 --> Severity: Warning --> file_exists(): open_basedir restriction in effect. File(/vagrant/svn_projects/php-weapp-demo/vendor/composer/../../../qcloudcos/Cosapi.php) is not within the allowed path(s): (/vagrant/svn_projects/php-weapp-demo/:/tmp/:/proc/) /vagrant/svn_projects/php-weapp-demo/vendor/composer/ClassLoader.php 384
+ERROR - 2017-06-26 09:53:39 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 09:54:04 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:54:04 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:54:04 --> Severity: Warning --> file_exists(): open_basedir restriction in effect. File(/vagrant/svn_projects/php-weapp-demo/vendor/composer/../../../qcloudcos/Cosapi.php) is not within the allowed path(s): (/vagrant/svn_projects/php-weapp-demo/:/tmp/:/proc/) /vagrant/svn_projects/php-weapp-demo/vendor/composer/ClassLoader.php 384
+ERROR - 2017-06-26 09:54:04 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 09:54:07 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:54:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:54:08 --> Severity: Warning --> file_exists(): open_basedir restriction in effect. File(/vagrant/svn_projects/php-weapp-demo/vendor/composer/../../../qcloudcos/Cosapi.php) is not within the allowed path(s): (/vagrant/svn_projects/php-weapp-demo/:/tmp/:/proc/) /vagrant/svn_projects/php-weapp-demo/vendor/composer/ClassLoader.php 384
+ERROR - 2017-06-26 09:54:08 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 09:56:29 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:56:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:56:29 --> Severity: Warning --> file_exists(): open_basedir restriction in effect. File(/vagrant/svn_projects/php-weapp-demo/vendor/composer/../../../qcloudcos/Cosapi.php) is not within the allowed path(s): (/vagrant/svn_projects/php-weapp-demo/:/tmp/:/proc/) /vagrant/svn_projects/php-weapp-demo/vendor/composer/ClassLoader.php 384
+ERROR - 2017-06-26 09:56:29 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 09:57:36 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 09:57:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 09:57:37 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 09:57:37 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 09:57:37 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/vendor/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 15:01:53 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 15:01:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 15:01:53 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 15:01:58 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 15:01:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 15:01:58 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 15:01:59 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 15:02:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 15:02:00 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 15:22:11 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 15:22:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 15:22:12 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 15:33:50 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 15:33:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 15:33:51 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 15:33:53 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 15:33:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 15:33:53 --> Severity: Error --> Class 'qcloudcos\Cosapi' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 13
+DEBUG - 2017-06-26 17:55:30 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 17:55:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 17:55:30 --> Severity: Error --> Call to undefined method Qcloud_cos\Cosapi::setRegion() /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 23
+DEBUG - 2017-06-26 17:59:35 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 17:59:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 17:59:36 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 29
+ERROR - 2017-06-26 17:59:36 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 29
+ERROR - 2017-06-26 17:59:36 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 33
+ERROR - 2017-06-26 17:59:36 --> Severity: Notice --> Undefined variable: dst /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 33
+ERROR - 2017-06-26 17:59:36 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 35
+ERROR - 2017-06-26 17:59:36 --> Severity: Notice --> Undefined variable: src /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 35
+ERROR - 2017-06-26 17:59:36 --> Severity: Notice --> Undefined variable: dst /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 35
+DEBUG - 2017-06-26 17:59:36 --> Total execution time: 0.8478
+DEBUG - 2017-06-26 19:06:32 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:06:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:06:33 --> Severity: Notice --> Undefined index: file /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 9
+ERROR - 2017-06-26 19:06:33 --> Severity: Notice --> Undefined index: filepath /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 10
+ERROR - 2017-06-26 19:06:33 --> Severity: Notice --> Undefined index: filename /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 10
+ERROR - 2017-06-26 19:06:33 --> Severity: Notice --> Undefined index: filepath /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 11
+ERROR - 2017-06-26 19:06:33 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 19:06:38 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:06:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:06:39 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:06:39 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:06:39 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 19:06:42 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:06:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:06:42 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:06:42 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:06:42 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 19:06:59 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:06:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:06:59 --> Severity: Notice --> Undefined index: file /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 9
+ERROR - 2017-06-26 19:06:59 --> Severity: Notice --> Undefined index: filepath /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 10
+ERROR - 2017-06-26 19:06:59 --> Severity: Notice --> Undefined index: filename /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 10
+ERROR - 2017-06-26 19:07:00 --> Severity: Notice --> Undefined index: filepath /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 11
+ERROR - 2017-06-26 19:07:00 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 19:07:12 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:07:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:07:12 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:07:12 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:07:12 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 19:07:13 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:07:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:07:14 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:07:14 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:07:14 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 19:07:23 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:07:23 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:07:23 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:07:23 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:07:24 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 19:07:39 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:07:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:07:39 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:07:39 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:07:39 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 19:09:22 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:09:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:09:22 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:09:22 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:09:22 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 19:09:26 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:09:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:09:26 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:09:26 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:09:26 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575
+DEBUG - 2017-06-26 19:09:28 --> UTF-8 Support Enabled
+DEBUG - 2017-06-26 19:09:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-06-26 19:09:28 --> Severity: Notice --> Undefined variable: bucket /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:09:28 --> Severity: Notice --> Undefined variable: folder /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 27
+ERROR - 2017-06-26 19:09:28 --> Severity: Error --> Class 'qcloudcos\HttpClient' not found /vagrant/svn_projects/php-weapp-demo/cos/qcloudcos/Cosapi.php 575

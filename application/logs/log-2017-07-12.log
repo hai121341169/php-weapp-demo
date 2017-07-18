@@ -1,0 +1,525 @@
+DEBUG - 2017-07-12 13:12:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 13:12:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 13:12:13 --> Severity: Notice --> Undefined index: file /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 9
+ERROR - 2017-07-12 13:12:13 --> Severity: Notice --> Undefined index: filepath /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 10
+ERROR - 2017-07-12 13:12:13 --> Severity: Notice --> Undefined index: filename /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 10
+ERROR - 2017-07-12 13:12:13 --> Severity: Notice --> Undefined index: filepath /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Upload.php 11
+DEBUG - 2017-07-12 13:12:13 --> Total execution time: 1.0992
+DEBUG - 2017-07-12 13:12:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 13:12:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 13:12:14 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-12 13:12:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 13:12:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:16:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:16:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:16:24 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:16:24 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:16:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:16:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:16:25 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-12 14:17:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:17:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:17:42 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:17:42 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:17:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:17:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:17:45 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:17:45 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:18:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:18:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:18:30 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:18:30 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:18:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:18:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:18:33 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:18:33 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:18:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:18:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:18:58 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:18:58 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:19:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:19:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:19:00 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:19:00 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:30:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:30:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:30:21 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:30:21 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:30:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:30:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:30:22 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:30:22 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:31:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:31:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:31:33 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:31:33 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:31:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:31:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:31:34 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:31:35 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:32:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:32:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:32:59 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:32:59 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:36:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:36:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:36:30 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:36:30 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:37:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:37:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:37:41 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:37:41 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:37:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:37:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:37:42 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:37:43 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:37:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:37:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:37:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:37:44 --> UTF-8 Support Enabled
+ERROR - 2017-07-12 14:37:44 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:37:44 --> UTF-8 Support Enabled
+ERROR - 2017-07-12 14:37:44 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:37:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:37:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:37:44 --> UTF-8 Support Enabled
+ERROR - 2017-07-12 14:37:44 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:37:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:37:44 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:37:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:37:44 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:37:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:37:45 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:37:45 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:37:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:37:45 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:37:45 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:37:45 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:37:45 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:37:45 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:38:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:38:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:38:36 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:38:36 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:38:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:38:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:38:37 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:38:37 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:38:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:38:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:38:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:38:39 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:38:39 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:38:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:38:39 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:38:39 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:43:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:43:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:43:12 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:43:12 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:43:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:43:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:43:13 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:43:13 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:43:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:43:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:43:44 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:43:44 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:43:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:43:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:43:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:43:46 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:43:46 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:43:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:43:46 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:43:46 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:47:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:47:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:47:30 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:47:30 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:47:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:47:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:47:31 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:47:31 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:47:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:47:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:47:53 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:47:53 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:47:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:47:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:47:55 --> UTF-8 Support Enabled
+ERROR - 2017-07-12 14:47:55 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:47:55 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:47:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:47:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:47:56 --> UTF-8 Support Enabled
+ERROR - 2017-07-12 14:47:56 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:47:56 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:47:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:47:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:47:56 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:47:56 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:47:56 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:47:56 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:48:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:48:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:48:11 --> Severity: Notice --> Undefined property: Index::$load /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+ERROR - 2017-07-12 14:48:11 --> Severity: Error --> Call to a member function model() on null /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Index.php 6
+DEBUG - 2017-07-12 14:48:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:48:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:48:29 --> Total execution time: 0.4285
+DEBUG - 2017-07-12 14:48:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:48:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:48:39 --> Total execution time: 0.4264
+DEBUG - 2017-07-12 14:48:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:48:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:48:41 --> Total execution time: 0.3503
+DEBUG - 2017-07-12 14:48:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:48:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:49:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:49:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:49:43 --> Total execution time: 0.3516
+DEBUG - 2017-07-12 14:50:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:50:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:50:21 --> Severity: Warning --> mysqli::real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known /vagrant/svn_projects/php-weapp-demo/system/database/drivers/mysqli/mysqli_driver.php 202
+ERROR - 2017-07-12 14:50:21 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known /vagrant/svn_projects/php-weapp-demo/system/database/drivers/mysqli/mysqli_driver.php 202
+ERROR - 2017-07-12 14:50:21 --> Unable to connect to the database
+DEBUG - 2017-07-12 14:50:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:50:25 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:50:25 --> Severity: Warning --> mysqli::real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known /vagrant/svn_projects/php-weapp-demo/system/database/drivers/mysqli/mysqli_driver.php 202
+ERROR - 2017-07-12 14:50:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known /vagrant/svn_projects/php-weapp-demo/system/database/drivers/mysqli/mysqli_driver.php 202
+ERROR - 2017-07-12 14:50:25 --> Unable to connect to the database
+DEBUG - 2017-07-12 14:51:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:51:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:51:07 --> Total execution time: 0.9967
+DEBUG - 2017-07-12 14:51:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:51:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:51:53 --> Total execution time: 0.5251
+DEBUG - 2017-07-12 14:51:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:51:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:51:55 --> Total execution time: 0.5053
+DEBUG - 2017-07-12 14:52:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:52:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:52:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:52:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 14:52:40 --> Query error: Table 'hucai_cloud.hcorder_work' doesn't exist - Invalid query: SELECT *
+FROM `hcorder_work`
+ LIMIT 10
+DEBUG - 2017-07-12 14:53:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:53:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:54:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:54:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:56:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:56:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:56:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:56:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:57:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:57:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:57:37 --> Total execution time: 0.5256
+DEBUG - 2017-07-12 14:59:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 14:59:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 14:59:53 --> Total execution time: 0.5318
+DEBUG - 2017-07-12 15:14:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:14:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 15:14:14 --> Severity: Parsing Error --> syntax error, unexpected '}', expecting identifier (T_STRING) /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 11
+DEBUG - 2017-07-12 15:18:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:18:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 15:18:29 --> Severity: Parsing Error --> syntax error, unexpected '}', expecting identifier (T_STRING) /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 11
+DEBUG - 2017-07-12 15:18:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:18:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 15:18:30 --> Severity: Parsing Error --> syntax error, unexpected '}', expecting identifier (T_STRING) /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 11
+DEBUG - 2017-07-12 15:18:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:18:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:18:37 --> Total execution time: 0.5691
+DEBUG - 2017-07-12 15:18:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:18:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:18:39 --> Total execution time: 0.5312
+DEBUG - 2017-07-12 15:18:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:18:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 15:18:51 --> Severity: Parsing Error --> syntax error, unexpected '}' /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 9
+DEBUG - 2017-07-12 15:18:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:18:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:18:57 --> Total execution time: 0.6421
+DEBUG - 2017-07-12 15:47:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:47:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:47:37 --> Total execution time: 0.5261
+DEBUG - 2017-07-12 15:49:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:49:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:49:41 --> Total execution time: 0.5194
+DEBUG - 2017-07-12 15:50:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:50:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:50:14 --> Total execution time: 0.5284
+DEBUG - 2017-07-12 15:50:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:50:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:50:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:50:16 --> Total execution time: 0.6765
+DEBUG - 2017-07-12 15:50:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:50:17 --> Total execution time: 0.5966
+DEBUG - 2017-07-12 15:50:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:50:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 15:50:17 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-12 15:50:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:50:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:50:49 --> Total execution time: 0.7913
+DEBUG - 2017-07-12 15:51:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:51:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:51:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:51:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:51:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:51:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:51:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:51:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:52:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:52:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:52:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:52:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 15:52:38 --> 404 Page Not Found: other/Order/user_id
+DEBUG - 2017-07-12 15:52:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:52:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:53:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:53:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:53:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:53:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:53:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:53:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:53:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:53:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:54:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:54:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:54:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:54:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:55:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:55:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:55:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:55:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:55:33 --> Total execution time: 0.5136
+DEBUG - 2017-07-12 15:57:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:57:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 15:57:15 --> Severity: Warning --> Missing argument 1 for Order::index() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 5
+ERROR - 2017-07-12 15:57:16 --> Severity: Notice --> Undefined variable: user_id /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 8
+DEBUG - 2017-07-12 15:57:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:57:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 15:57:17 --> Severity: Warning --> Missing argument 1 for Order::index() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 5
+ERROR - 2017-07-12 15:57:17 --> Severity: Notice --> Undefined variable: user_id /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 8
+DEBUG - 2017-07-12 15:57:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:57:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:57:30 --> Total execution time: 0.4976
+DEBUG - 2017-07-12 15:57:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:57:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:57:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:57:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:58:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:58:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 15:58:11 --> Severity: Warning --> Missing argument 1 for CI_URI::segment(), called in /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php on line 7 and defined /vagrant/svn_projects/php-weapp-demo/system/core/URI.php 344
+ERROR - 2017-07-12 15:58:11 --> Severity: Notice --> Undefined variable: n /vagrant/svn_projects/php-weapp-demo/system/core/URI.php 346
+DEBUG - 2017-07-12 15:58:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:58:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:58:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:58:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:58:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:58:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:59:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:59:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:59:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:59:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:59:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 15:59:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 15:59:36 --> Total execution time: 0.5214
+DEBUG - 2017-07-12 16:03:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:03:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 16:03:25 --> Query error: Table 'hucai_cloud.hc_order_work_join' doesn't exist - Invalid query: SELECT *
+FROM `hc_order_work_join`
+WHERE `user_id` = '1'
+ LIMIT 10
+DEBUG - 2017-07-12 16:03:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:03:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 16:03:51 --> Total execution time: 0.6842
+DEBUG - 2017-07-12 16:13:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:13:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 16:13:16 --> Severity: Parsing Error --> syntax error, unexpected '$result' (T_VARIABLE) /vagrant/svn_projects/php-weapp-demo/application/models/Orderwork_model.php 22
+DEBUG - 2017-07-12 16:16:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:16:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 16:16:26 --> Severity: Parsing Error --> syntax error, unexpected '$result' (T_VARIABLE) /vagrant/svn_projects/php-weapp-demo/application/models/Orderwork_model.php 22
+DEBUG - 2017-07-12 16:16:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:16:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 16:16:53 --> Severity: Notice --> Array to string conversion /vagrant/svn_projects/php-weapp-demo/system/database/DB_query_builder.php 669
+ERROR - 2017-07-12 16:16:53 --> Query error: Unknown column 'Array' in 'where clause' - Invalid query: SELECT *
+FROM `hc_order_work`
+WHERE `id` = `Array`
+ LIMIT 10
+DEBUG - 2017-07-12 16:17:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:17:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 16:17:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:17:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 16:17:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:17:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 16:18:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:18:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 16:18:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:18:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 16:19:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:19:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 16:22:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:22:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 16:22:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:22:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 16:23:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 16:23:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 16:23:06 --> Severity: Notice --> Array to string conversion /vagrant/svn_projects/php-weapp-demo/system/database/DB_query_builder.php 669
+ERROR - 2017-07-12 16:23:06 --> Query error: Unknown column 'Array' in 'where clause' - Invalid query: SELECT *
+FROM `hc_order_work`
+WHERE `id` = `Array`
+ LIMIT 10
+DEBUG - 2017-07-12 17:22:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:22:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:22:54 --> Severity: Notice --> Array to string conversion /vagrant/svn_projects/php-weapp-demo/system/database/DB_query_builder.php 669
+ERROR - 2017-07-12 17:22:54 --> Query error: Unknown column 'Array' in 'where clause' - Invalid query: SELECT *
+FROM `hc_order_work`
+WHERE `id` = `Array`
+ LIMIT 10
+DEBUG - 2017-07-12 17:23:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:23:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:23:19 --> Severity: Notice --> Array to string conversion /vagrant/svn_projects/php-weapp-demo/system/database/DB_query_builder.php 669
+ERROR - 2017-07-12 17:23:19 --> Query error: Unknown column 'Array' in 'where clause' - Invalid query: SELECT *
+FROM `hc_order_work`
+WHERE `id` = `Array`
+ LIMIT 10
+DEBUG - 2017-07-12 17:31:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:31:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:31:18 --> Severity: Notice --> Array to string conversion /vagrant/svn_projects/php-weapp-demo/system/database/DB_query_builder.php 669
+ERROR - 2017-07-12 17:31:18 --> Query error: Unknown column 'Array' in 'where clause' - Invalid query: SELECT *
+FROM `hc_order_work`
+WHERE `id` = `Array`
+ LIMIT 10
+DEBUG - 2017-07-12 17:31:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:31:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 17:31:41 --> Total execution time: 0.5204
+DEBUG - 2017-07-12 17:38:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:38:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:38:21 --> Severity: Parsing Error --> syntax error, unexpected '$return' (T_VARIABLE), expecting identifier (T_STRING) /vagrant/svn_projects/php-weapp-demo/system/core/Controller.php 61
+DEBUG - 2017-07-12 17:38:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:38:33 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:38:33 --> Severity: Parsing Error --> syntax error, unexpected '$return' (T_VARIABLE), expecting identifier (T_STRING) /vagrant/svn_projects/php-weapp-demo/system/core/Controller.php 61
+DEBUG - 2017-07-12 17:38:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:38:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:38:49 --> Severity: Parsing Error --> syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' /vagrant/svn_projects/php-weapp-demo/system/core/Controller.php 72
+DEBUG - 2017-07-12 17:38:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:38:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:38:58 --> Severity: Parsing Error --> syntax error, unexpected 'jsonReturn' (T_STRING) /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 11
+DEBUG - 2017-07-12 17:40:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:40:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:40:06 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 11
+DEBUG - 2017-07-12 17:40:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:40:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:40:07 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 11
+DEBUG - 2017-07-12 17:40:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:40:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 17:43:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:43:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:43:55 --> Severity: Parsing Error --> syntax error, unexpected '$this' (T_VARIABLE) /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 38
+DEBUG - 2017-07-12 17:44:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:44:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 17:44:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:44:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 17:54:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:54:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:54:36 --> Severity: Error --> Call to undefined method Order::jsonReturn() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 38
+DEBUG - 2017-07-12 17:56:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:56:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:56:17 --> Severity: Error --> Call to undefined function jsonReturn() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 41
+DEBUG - 2017-07-12 17:56:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:56:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:56:18 --> Severity: Error --> Call to undefined function jsonReturn() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 41
+DEBUG - 2017-07-12 17:56:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:56:32 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:56:32 --> Severity: Error --> Call to undefined function ajaxReturn() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 41
+DEBUG - 2017-07-12 17:56:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:56:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:56:51 --> Severity: Error --> Call to undefined function ajaxReturn() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 42
+DEBUG - 2017-07-12 17:57:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:57:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:57:03 --> Severity: Error --> Call to undefined function ajaxReturn() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 42
+DEBUG - 2017-07-12 17:58:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:58:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:58:56 --> Severity: Error --> Call to undefined function ajaxReturn() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 41
+DEBUG - 2017-07-12 17:59:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 17:59:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 17:59:06 --> Severity: Error --> Call to undefined function ajaxReturn() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 42
+DEBUG - 2017-07-12 18:01:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:01:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:01:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:01:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:09:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:09:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:09:49 --> Severity: Error --> Class 'CI_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:09:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:09:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:09:51 --> Severity: Error --> Class 'CI_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:14:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:14:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:14:53 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:14:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:14:55 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:14:55 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:16:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:16:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:16:01 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:16:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:16:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:16:03 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:16:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:16:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:16:04 --> UTF-8 Support Enabled
+ERROR - 2017-07-12 18:16:04 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:16:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:16:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:16:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:16:05 --> UTF-8 Support Enabled
+ERROR - 2017-07-12 18:16:05 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:16:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:16:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:16:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:16:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:16:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:16:06 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:16:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:16:06 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:16:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:16:06 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+ERROR - 2017-07-12 18:16:06 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+ERROR - 2017-07-12 18:16:06 --> Severity: Error --> Class 'MY_Api' not found /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 4
+DEBUG - 2017-07-12 18:17:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:17:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:17:26 --> Severity: Parsing Error --> syntax error, unexpected 'if' (T_IF) /vagrant/svn_projects/php-weapp-demo/application/core/MY_Controller.php 22
+DEBUG - 2017-07-12 18:17:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:17:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:17:28 --> Severity: Parsing Error --> syntax error, unexpected 'if' (T_IF) /vagrant/svn_projects/php-weapp-demo/application/core/MY_Controller.php 22
+DEBUG - 2017-07-12 18:17:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:17:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:17:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:17:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:17:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:17:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:18:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:18:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:19:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:19:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:19:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:19:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:47:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:47:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:47:39 --> Severity: Error --> Call to undefined method Order_logic::get_join_order_work() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 42
+DEBUG - 2017-07-12 18:48:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:48:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:48:01 --> Severity: Error --> Call to undefined method Order_logic::get_join_order_work() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 42
+DEBUG - 2017-07-12 18:48:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:48:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:48:06 --> Severity: Error --> Call to undefined method Order_logic::get_join_order_work() /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 42
+DEBUG - 2017-07-12 18:48:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:48:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:48:30 --> 404 Page Not Found: other/Order/join_order_work
+DEBUG - 2017-07-12 18:48:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:48:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-12 18:49:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-12 18:49:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-12 18:49:06 --> Severity: error --> Exception: Unable to locate the model you have specified: Orderwork_model /vagrant/svn_projects/php-weapp-demo/system/core/Loader.php 344

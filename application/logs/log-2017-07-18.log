@@ -1,0 +1,2351 @@
+DEBUG - 2017-07-18 00:04:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:04:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:04:29 --> Severity: Notice --> Undefined index: encrypted_data /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 12
+DEBUG - 2017-07-18 00:05:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:05:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:05:30 --> Severity: Notice --> Undefined index: encrypted_data /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 12
+DEBUG - 2017-07-18 00:06:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:06:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:06:18 --> Severity: Notice --> Undefined index: encrypted_data /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 12
+DEBUG - 2017-07-18 00:07:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:07:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:07:20 --> Total execution time: 1.1198
+DEBUG - 2017-07-18 00:09:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:09:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:11:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:11:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:12:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:12:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:12:27 --> Severity: Notice --> Undefined index: encrypted_data /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 12
+DEBUG - 2017-07-18 00:13:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:13:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:13:07 --> Severity: Error --> Call to undefined function jsonDecode() /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 22
+DEBUG - 2017-07-18 00:13:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:13:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:15:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:15:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:23:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:23:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:23:16 --> Severity: Warning --> Illegal string offset 'openId' /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 38
+ERROR - 2017-07-18 00:23:16 --> Query error: Unknown column 'openid' in 'where clause' - Invalid query: SELECT *
+FROM `hc_image`
+WHERE `openid` = '{'
+AND `unionid` = ''
+ LIMIT 100
+DEBUG - 2017-07-18 00:24:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:24:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:24:19 --> Severity: Warning --> Illegal string offset 'openId' /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 38
+ERROR - 2017-07-18 00:24:19 --> Query error: Unknown column 'openid' in 'where clause' - Invalid query: SELECT *
+FROM `hc_image`
+WHERE `openid` = '{'
+AND `unionid` = ''
+ LIMIT 100
+DEBUG - 2017-07-18 00:25:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:25:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:25:06 --> Severity: Warning --> Illegal string offset 'openId' /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 39
+ERROR - 2017-07-18 00:25:06 --> Query error: Unknown column 'openid' in 'where clause' - Invalid query: SELECT *
+FROM `hc_image`
+WHERE `openid` = '{'
+AND `unionid` = ''
+ LIMIT 100
+DEBUG - 2017-07-18 00:26:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:26:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:26:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:26:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:26:43 --> Severity: Warning --> Illegal string offset 'openId' /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 34
+DEBUG - 2017-07-18 00:27:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:27:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:27:15 --> Severity: Notice --> Trying to get property of non-object /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 34
+DEBUG - 2017-07-18 00:27:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:27:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:28:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:28:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:28:51 --> Severity: Warning --> var_dump() expects at least 1 parameter, 0 given /vagrant/svn_projects/php-weapp-demo/application/controllers/weapp/Login.php 35
+DEBUG - 2017-07-18 00:29:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:29:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:30:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:30:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:31:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:31:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:31:02 --> Query error: Unknown column 'openid' in 'where clause' - Invalid query: SELECT *
+FROM `hc_image`
+WHERE `openid` = 'otk4Z0Qow8FZO_Mek1ih2sRHR6c0'
+AND `unionid` = ''
+ LIMIT 100
+DEBUG - 2017-07-18 00:32:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:32:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:36:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:36:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:39:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:39:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:39:42 --> Query error: Unknown column 'username' in 'field list' - Invalid query: INSERT INTO `hc_image` (`username`, `nickname`, `gender`, `openid`, `unionid`, `avatar_url`, `add_time`) VALUES ('hai', 'hai', 1, 'otk4Z0Qow8FZO_Mek1ih2sRHR6c0', '', 'https://wx.qlogo.cn/mmopen/vi_32/pQNcqxUnnpM9j4svQw5qnLIEN7KNdAgzIR2J2HGoY46NKEZr1y6ib74B80dEWIjqNyuYxLq4XH8wiaRmy14mhRhg/0', 1500309582)
+DEBUG - 2017-07-18 00:40:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:40:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:40:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:40:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:43:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:43:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:43:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:43:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:43:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:43:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:43:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:43:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:43:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:43:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:43:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:43:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:43:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:44:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:44:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:44:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:44:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:44:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:45:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:45:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:56:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:56:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:57:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:57:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:57:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:57:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:57:22 --> Severity: Notice --> Undefined variable: _SESSION /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 11
+DEBUG - 2017-07-18 00:58:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:58:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:58:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2017-07-18 00:58:12 --> Severity: Warning --> mkdir(): Invalid path /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 118
+ERROR - 2017-07-18 00:58:12 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 120
+ERROR - 2017-07-18 00:58:12 --> Severity: Warning --> file_exists(): open_basedir restriction in effect. File(e998516f71bff7d15ca7879d5969ab86b0eede64) is not within the allowed path(s): (/vagrant/svn_projects/php-weapp-demo/:/tmp/:/proc/) /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 155
+ERROR - 2017-07-18 00:58:12 --> Severity: Warning --> fopen(): open_basedir restriction in effect. File(e998516f71bff7d15ca7879d5969ab86b0eede64) is not within the allowed path(s): (/vagrant/svn_projects/php-weapp-demo/:/tmp/:/proc/) /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 157
+ERROR - 2017-07-18 00:58:12 --> Severity: Warning --> fopen(e998516f71bff7d15ca7879d5969ab86b0eede64): failed to open stream: Operation not permitted /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 157
+ERROR - 2017-07-18 00:58:12 --> Session: File 'e998516f71bff7d15ca7879d5969ab86b0eede64' doesn't exist and cannot be created.
+ERROR - 2017-07-18 00:58:12 --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct () Unknown 0
+DEBUG - 2017-07-18 00:59:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:59:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:59:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2017-07-18 00:59:05 --> Severity: Warning --> mkdir(): Invalid path /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 118
+ERROR - 2017-07-18 00:59:05 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 120
+ERROR - 2017-07-18 00:59:05 --> Severity: Warning --> file_exists(): open_basedir restriction in effect. File(e998516f71bff7d15ca7879d5969ab86b0eede64) is not within the allowed path(s): (/vagrant/svn_projects/php-weapp-demo/:/tmp/:/proc/) /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 155
+ERROR - 2017-07-18 00:59:05 --> Severity: Warning --> fopen(): open_basedir restriction in effect. File(e998516f71bff7d15ca7879d5969ab86b0eede64) is not within the allowed path(s): (/vagrant/svn_projects/php-weapp-demo/:/tmp/:/proc/) /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 157
+ERROR - 2017-07-18 00:59:05 --> Severity: Warning --> fopen(e998516f71bff7d15ca7879d5969ab86b0eede64): failed to open stream: Operation not permitted /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 157
+ERROR - 2017-07-18 00:59:06 --> Session: File 'e998516f71bff7d15ca7879d5969ab86b0eede64' doesn't exist and cannot be created.
+ERROR - 2017-07-18 00:59:06 --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct () Unknown 0
+DEBUG - 2017-07-18 00:59:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:59:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 00:59:06 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-18 00:59:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 00:59:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 00:59:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+ERROR - 2017-07-18 00:59:13 --> Severity: Warning --> mkdir(): Invalid path /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 118
+ERROR - 2017-07-18 00:59:13 --> Severity: error --> Exception: Session: Configured save path '' is not a directory, doesn't exist or cannot be created. /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 120
+ERROR - 2017-07-18 00:59:13 --> Severity: Warning --> file_exists(): open_basedir restriction in effect. File(e998516f71bff7d15ca7879d5969ab86b0eede64) is not within the allowed path(s): (/vagrant/svn_projects/php-weapp-demo/:/tmp/:/proc/) /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 155
+ERROR - 2017-07-18 00:59:13 --> Severity: Warning --> fopen(): open_basedir restriction in effect. File(e998516f71bff7d15ca7879d5969ab86b0eede64) is not within the allowed path(s): (/vagrant/svn_projects/php-weapp-demo/:/tmp/:/proc/) /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 157
+ERROR - 2017-07-18 00:59:13 --> Severity: Warning --> fopen(e998516f71bff7d15ca7879d5969ab86b0eede64): failed to open stream: Operation not permitted /vagrant/svn_projects/php-weapp-demo/system/libraries/Session/drivers/Session_files_driver.php 157
+ERROR - 2017-07-18 00:59:13 --> Session: File 'e998516f71bff7d15ca7879d5969ab86b0eede64' doesn't exist and cannot be created.
+ERROR - 2017-07-18 00:59:13 --> Severity: Warning --> Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct () Unknown 0
+DEBUG - 2017-07-18 01:01:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:01:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:02:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:02:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:02:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:02:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:02:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:02:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:02:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:02:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:02:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:02:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:02:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:02:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:02:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:02:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:02:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:02:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:09:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:09:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:10:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:10:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:11:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:11:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:12:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:12:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:15:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:15:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:15:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:15:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:15:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:15:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:15:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:15:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:15:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:15:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:16:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:16:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:16:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:16:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:16:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:16:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:16:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:16:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:17:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:17:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:17:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:17:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:17:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:17:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:17:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:17:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:17:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:17:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:17:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:17:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:18:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:18:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:18:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:18:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:18:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:18:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:18:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:18:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:18:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:18:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:18:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:18:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:18:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:18:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:18:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:18:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:18:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:18:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:19:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:19:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:19:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:19:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:19:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:19:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:19:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:19:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:20:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:20:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:20:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:20:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:21:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:21:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:23:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:23:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:23:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:23:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:24:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:24:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:24:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:24:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:24:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:24:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:24:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:24:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:24:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:24:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:24:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:24:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:24:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:24:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:25:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:25:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:25:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:25:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:25:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:25:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:25:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:25:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:25:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:25:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:25:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:25:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:25:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:25:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:25:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:25:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:25:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:25:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:25:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:25:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:26:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:26:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:26:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:26:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:26:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:26:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:27:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:27:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:27:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:27:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:27:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:27:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:27:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:27:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:27:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:27:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:28:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:28:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:29:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:29:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:29:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:29:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:29:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:29:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:30:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:30:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:30:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:30:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:30:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:30:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:30:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:30:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:31:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:31:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:31:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:31:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:32:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:32:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:33:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:33:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:34:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:34:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:34:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:34:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:34:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:34:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:34:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:34:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:34:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:34:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:37:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:37:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:37:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:37:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:38:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:38:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:39:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:39:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:39:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:39:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:39:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:39:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:39:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:39:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:39:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:39:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:39:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:40:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:40:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:40:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:40:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:40:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:40:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:40:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:40:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:40:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:40:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:40:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:40:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:40:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:41:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:41:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:41:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:41:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:41:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:41:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:41:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:41:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:41:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:41:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:41:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:41:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:41:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:41:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:41:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:41:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:42:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:42:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:42:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:42:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:42:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:42:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:42:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:42:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:42:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:42:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:42:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:42:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:42:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:42:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:42:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:42:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:43:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:43:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:43:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:43:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:43:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:43:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:44:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:44:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:44:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:44:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:44:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:44:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:46:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:46:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:46:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:46:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:46:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:46:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:46:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:46:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:46:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:46:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:46:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:46:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:46:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:46:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:47:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:47:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:47:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:47:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:47:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:47:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:48:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:48:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:48:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:48:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:48:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:48:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:49:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:49:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:50:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:50:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:50:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:50:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:51:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:51:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:51:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:51:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:52:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:52:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:52:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:52:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:52:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:52:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:52:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:52:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:53:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:53:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:53:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:53:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:53:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:53:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:55:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:55:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:56:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:56:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 01:56:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 01:56:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:08:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:08:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:08:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:08:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:08:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:08:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:08:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:08:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:09:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:09:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:09:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:09:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:09:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:09:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:09:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:09:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:09:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:09:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:10:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:10:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:10:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:10:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:10:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:10:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:10:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:10:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:10:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:10:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:11:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:11:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:11:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:11:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:11:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:11:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:11:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:11:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:11:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:11:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:11:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:11:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:11:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:11:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:11:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:11:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:11:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:11:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:13:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:13:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:13:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:13:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:13:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:13:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:13:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:13:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:14:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:14:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:14:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:14:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:14:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:14:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:14:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:14:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:14:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:14:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:14:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:14:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:15:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:15:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:15:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:15:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:16:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:16:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:18:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:18:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:18:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:18:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:18:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:18:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:18:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:18:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:19:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:19:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:19:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:19:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:19:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:19:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:19:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:19:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:20:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:20:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:20:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:20:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:20:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:20:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:20:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:20:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:21:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:21:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:21:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:21:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:21:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:21:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:21:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:21:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:21:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:21:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:22:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:22:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:22:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:22:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:22:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:22:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:22:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:22:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:23:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:23:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:23:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:23:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:23:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:23:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:23:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:23:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:24:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:24:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:24:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:24:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:25:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:25:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:25:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:25:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:25:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:25:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:25:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:25:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:25:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:25:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:25:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:25:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:25:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:26:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:26:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:26:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:26:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:26:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:26:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:26:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:26:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:26:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:26:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:26:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:26:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:26:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:27:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:27:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:27:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:27:40 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 09:27:40 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-18 09:29:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:29:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:31:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:31:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:33:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:33:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:33:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:33:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:33:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:33:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:34:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:34:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:34:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:34:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:35:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:35:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:35:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:35:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:35:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:35:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:35:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:35:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:35:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:35:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:36:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:36:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:36:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:36:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:36:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:36:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:41:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:41:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:42:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:42:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:44:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:44:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:49:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:49:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:50:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:50:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:50:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:50:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:50:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:50:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:50:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:50:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:52:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:52:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:52:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:52:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:52:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:52:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:52:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:52:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:52:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:52:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:52:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:52:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:52:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:52:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:52:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:52:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:52:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:52:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:52:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:52:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:53:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:53:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:54:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:54:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:54:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:54:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:54:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:54:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:54:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:54:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:54:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:54:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:55:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:55:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:55:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:55:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:55:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:55:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:55:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:56:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 09:58:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 09:58:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:01:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:01:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:03:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:03:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 10:03:09 --> Severity: Compile Error --> Key element cannot be a reference /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+DEBUG - 2017-07-18 10:03:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:03:26 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 10:03:26 --> Severity: Compile Error --> Key element cannot be a reference /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+DEBUG - 2017-07-18 10:04:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:04:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:04:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:04:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:05:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:05:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:08:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:08:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 10:08:45 --> Severity: Notice --> Undefined offset: 2 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 35
+ERROR - 2017-07-18 10:08:45 --> Severity: Notice --> Undefined offset: 2 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 36
+ERROR - 2017-07-18 10:08:45 --> Severity: Notice --> Undefined offset: 3 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 35
+ERROR - 2017-07-18 10:08:45 --> Severity: Notice --> Undefined offset: 3 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 36
+ERROR - 2017-07-18 10:08:45 --> Severity: Notice --> Undefined offset: 4 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 35
+ERROR - 2017-07-18 10:08:45 --> Severity: Notice --> Undefined offset: 4 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 36
+ERROR - 2017-07-18 10:08:45 --> Severity: Notice --> Undefined offset: 5 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 35
+ERROR - 2017-07-18 10:08:45 --> Severity: Notice --> Undefined offset: 5 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 36
+ERROR - 2017-07-18 10:08:45 --> Severity: Notice --> Undefined offset: 6 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 35
+ERROR - 2017-07-18 10:08:46 --> Severity: Notice --> Undefined offset: 6 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 36
+ERROR - 2017-07-18 10:08:46 --> Severity: Notice --> Undefined offset: 7 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 35
+ERROR - 2017-07-18 10:08:46 --> Severity: Notice --> Undefined offset: 7 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 36
+ERROR - 2017-07-18 10:08:46 --> Severity: Notice --> Undefined offset: 8 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 35
+ERROR - 2017-07-18 10:08:46 --> Severity: Notice --> Undefined offset: 8 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 36
+ERROR - 2017-07-18 10:08:46 --> Severity: Notice --> Undefined offset: 9 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 35
+ERROR - 2017-07-18 10:08:46 --> Severity: Notice --> Undefined offset: 9 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 36
+ERROR - 2017-07-18 10:08:46 --> Severity: Notice --> Undefined offset: 10 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 35
+ERROR - 2017-07-18 10:08:46 --> Severity: Notice --> Undefined offset: 10 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 36
+ERROR - 2017-07-18 10:08:46 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /vagrant/svn_projects/php-weapp-demo/system/core/Exceptions.php:272) /vagrant/svn_projects/php-weapp-demo/application/core/MY_Controller.php 26
+DEBUG - 2017-07-18 10:17:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:17:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 10:17:21 --> Severity: Parsing Error --> syntax error, unexpected ';', expecting '(' /vagrant/svn_projects/php-weapp-demo/application/models/User_model.php 14
+DEBUG - 2017-07-18 10:17:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:17:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 2 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 2 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 29
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 3 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 3 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 29
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 4 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 4 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 29
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 5 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 5 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 29
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 6 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 6 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 29
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 7 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 7 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 29
+ERROR - 2017-07-18 10:17:37 --> Severity: Notice --> Undefined offset: 8 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+ERROR - 2017-07-18 10:17:38 --> Severity: Notice --> Undefined offset: 8 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 29
+ERROR - 2017-07-18 10:17:38 --> Severity: Notice --> Undefined offset: 9 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+ERROR - 2017-07-18 10:17:38 --> Severity: Notice --> Undefined offset: 9 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 29
+ERROR - 2017-07-18 10:17:38 --> Severity: Notice --> Undefined offset: 10 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 28
+ERROR - 2017-07-18 10:17:38 --> Severity: Notice --> Undefined offset: 10 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 29
+ERROR - 2017-07-18 10:17:38 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /vagrant/svn_projects/php-weapp-demo/system/core/Exceptions.php:272) /vagrant/svn_projects/php-weapp-demo/application/core/MY_Controller.php 26
+DEBUG - 2017-07-18 10:19:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:19:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:19:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:19:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:19:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:19:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:38:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:38:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:39:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:39:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:50:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:50:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:50:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:50:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:51:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:51:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:51:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:51:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:51:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:51:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:51:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:51:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:51:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:51:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:52:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:52:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:54:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:54:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:55:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:55:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:58:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:58:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:58:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:58:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 10:59:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 10:59:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:00:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:00:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:01:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:01:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:03:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:03:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:03:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:03:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:03:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:03:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:08:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:08:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:08:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:08:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:08:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:08:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:10:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:10:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:11:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:11:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:11:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:11:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:13:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:13:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:13:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:13:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:14:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:14:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:14:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:14:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:15:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:15:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:15:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:15:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:15:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:15:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:16:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:16:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:18:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:18:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:19:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:19:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:19:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:19:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:19:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:19:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:19:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:19:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:19:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:19:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:19:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:19:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:20:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:20:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:20:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:20:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:20:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:20:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:21:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:21:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:21:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:21:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:21:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:21:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:21:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:21:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:21:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:21:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:21:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:21:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:21:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:21:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:24:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:24:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:24:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:24:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:24:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:24:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:24:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:24:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:24:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:24:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:24:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:24:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:24:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:24:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:24:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:24:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:30:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:30:41 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 11:30:41 --> Severity: Parsing Error --> syntax error, unexpected ':' /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 11
+DEBUG - 2017-07-18 11:31:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:31:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:36:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:36:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:36:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:36:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 11:46:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 11:46:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:33:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:33:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 12:33:36 --> Severity: Notice --> Undefined variable: offset /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 23
+DEBUG - 2017-07-18 12:33:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:33:57 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 12:33:57 --> Severity: Notice --> Undefined variable: offset /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 23
+DEBUG - 2017-07-18 12:34:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:34:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 12:34:01 --> Severity: Notice --> Undefined variable: offset /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 23
+DEBUG - 2017-07-18 12:34:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:34:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:34:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:34:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:34:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:34:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:34:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:34:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:36:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:36:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:36:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:36:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:36:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:36:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:37:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:37:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:38:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:38:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:38:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:38:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:38:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:38:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:38:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:38:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:39:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:39:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:39:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:39:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:39:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:39:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:39:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:39:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:39:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:39:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:39:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:39:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:39:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:39:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:39:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:39:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:39:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:39:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:39:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:39:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:41:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:41:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:41:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:41:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:41:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:41:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:46:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:46:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:47:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:47:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:56:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:56:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:57:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:57:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 12:57:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 12:57:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:00:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:00:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:00:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:00:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:00:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:00:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:03:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:03:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:13:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:13:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:13:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:13:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:14:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:14:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:15:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:15:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:16:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:16:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:16:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:16:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:17:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:17:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:18:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:18:37 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 13:18:38 --> Severity: Notice --> Undefined offset: 2 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 130
+ERROR - 2017-07-18 13:18:38 --> Severity: Notice --> Undefined offset: 2 /vagrant/svn_projects/php-weapp-demo/application/controllers/other/Order.php 131
+DEBUG - 2017-07-18 13:19:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:19:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:19:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:19:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:19:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:19:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:20:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:20:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:20:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:20:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:20:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:20:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:20:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:20:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:26:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:26:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:26:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:26:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:27:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:27:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:27:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:27:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:29:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:29:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:29:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:29:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:30:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:30:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:30:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:30:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:31:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:31:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:31:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:31:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:31:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:31:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:31:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:31:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:31:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:31:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:31:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:31:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:33:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:33:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:33:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:33:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:33:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:33:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:33:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:33:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:38:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:38:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:38:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:38:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:41:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:41:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:41:48 --> Total execution time: 1.2009
+DEBUG - 2017-07-18 13:41:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:41:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:41:50 --> Total execution time: 0.7406
+DEBUG - 2017-07-18 13:41:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:41:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:41:57 --> Total execution time: 0.7462
+DEBUG - 2017-07-18 13:41:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:41:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:41:58 --> Total execution time: 0.8783
+DEBUG - 2017-07-18 13:42:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:42:02 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 13:42:02 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-18 13:46:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:46:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:46:30 --> Total execution time: 0.7089
+DEBUG - 2017-07-18 13:46:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:46:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:46:31 --> Total execution time: 0.6764
+DEBUG - 2017-07-18 13:46:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:46:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:46:41 --> Total execution time: 0.6890
+DEBUG - 2017-07-18 13:46:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:46:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:46:42 --> Total execution time: 0.7067
+DEBUG - 2017-07-18 13:46:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:46:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 13:46:45 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-18 13:46:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:46:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:47:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:47:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:47:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:47:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:47:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:47:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:47:57 --> Total execution time: 0.6817
+DEBUG - 2017-07-18 13:47:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:47:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:47:59 --> Total execution time: 1.1251
+DEBUG - 2017-07-18 13:48:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:48:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:48:03 --> Total execution time: 1.3176
+DEBUG - 2017-07-18 13:48:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:48:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:48:04 --> Total execution time: 1.1061
+DEBUG - 2017-07-18 13:48:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:48:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 13:48:13 --> 404 Page Not Found: backend/Login/index.html
+DEBUG - 2017-07-18 13:48:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:48:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:48:16 --> Total execution time: 0.6975
+DEBUG - 2017-07-18 13:48:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:48:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:48:17 --> Total execution time: 0.8873
+DEBUG - 2017-07-18 13:49:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:14 --> Total execution time: 0.6819
+DEBUG - 2017-07-18 13:49:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:16 --> Total execution time: 0.8950
+DEBUG - 2017-07-18 13:49:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 13:49:17 --> 404 Page Not Found: backend/Login/login
+DEBUG - 2017-07-18 13:49:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:22 --> Total execution time: 0.6677
+DEBUG - 2017-07-18 13:49:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:23 --> Total execution time: 0.7000
+DEBUG - 2017-07-18 13:49:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:32 --> Total execution time: 0.6723
+DEBUG - 2017-07-18 13:49:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:33 --> Total execution time: 0.8556
+DEBUG - 2017-07-18 13:49:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:35 --> Total execution time: 0.7046
+DEBUG - 2017-07-18 13:49:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:36 --> Total execution time: 0.6496
+DEBUG - 2017-07-18 13:49:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:38 --> Total execution time: 0.6763
+DEBUG - 2017-07-18 13:49:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:39 --> Total execution time: 0.7029
+DEBUG - 2017-07-18 13:49:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:43 --> Total execution time: 0.6837
+DEBUG - 2017-07-18 13:49:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:51 --> Total execution time: 0.6645
+DEBUG - 2017-07-18 13:49:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:52 --> Total execution time: 0.6858
+DEBUG - 2017-07-18 13:49:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:49:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:49:53 --> Total execution time: 0.6752
+DEBUG - 2017-07-18 13:50:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:50:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:50:01 --> Total execution time: 0.7562
+DEBUG - 2017-07-18 13:50:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:50:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:50:22 --> Total execution time: 0.6739
+DEBUG - 2017-07-18 13:50:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:50:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:50:23 --> Total execution time: 0.6606
+DEBUG - 2017-07-18 13:50:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:50:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:50:35 --> Total execution time: 0.6798
+DEBUG - 2017-07-18 13:50:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:50:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:50:36 --> Total execution time: 0.7338
+DEBUG - 2017-07-18 13:51:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:51:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 13:51:28 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-18 13:51:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:51:34 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 13:51:34 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-18 13:55:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:55:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:55:11 --> Total execution time: 1.5261
+DEBUG - 2017-07-18 13:55:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:55:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:55:13 --> Total execution time: 0.8774
+DEBUG - 2017-07-18 13:55:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:55:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:55:18 --> Total execution time: 0.8220
+DEBUG - 2017-07-18 13:55:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:55:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:55:19 --> Total execution time: 0.8327
+DEBUG - 2017-07-18 13:55:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:55:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:55:49 --> Total execution time: 0.7673
+DEBUG - 2017-07-18 13:55:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:55:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:55:50 --> Total execution time: 0.7196
+DEBUG - 2017-07-18 13:55:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:56:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:57:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:57:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:57:26 --> Total execution time: 0.6716
+DEBUG - 2017-07-18 13:57:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:57:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:57:27 --> Total execution time: 0.6687
+DEBUG - 2017-07-18 13:57:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:57:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:57:56 --> Total execution time: 0.6510
+DEBUG - 2017-07-18 13:57:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:57:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:57:57 --> Total execution time: 0.6886
+DEBUG - 2017-07-18 13:58:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:58:03 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 13:58:03 --> 404 Page Not Found: backend/Member-addhtml/index
+DEBUG - 2017-07-18 13:58:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:58:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 13:58:08 --> 404 Page Not Found: backend/Member-addhtml/index
+DEBUG - 2017-07-18 13:58:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:58:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 13:58:17 --> 404 Page Not Found: backend/Member-delhtml/index
+DEBUG - 2017-07-18 13:58:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:58:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:58:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:58:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:58:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:58:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:58:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:58:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 13:59:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 13:59:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:00:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:00:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:00:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:00:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:00:52 --> Total execution time: 0.7445
+DEBUG - 2017-07-18 14:00:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:00:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:00:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:00:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:00:53 --> Total execution time: 0.8307
+DEBUG - 2017-07-18 14:00:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:00:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:01:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:01:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:01:39 --> Total execution time: 0.6986
+DEBUG - 2017-07-18 14:01:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:01:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:01:40 --> Total execution time: 0.7154
+DEBUG - 2017-07-18 14:01:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:01:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:01:42 --> Total execution time: 0.7225
+DEBUG - 2017-07-18 14:01:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:01:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:01:44 --> Total execution time: 0.8363
+DEBUG - 2017-07-18 14:01:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:01:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:01:46 --> Total execution time: 0.7148
+DEBUG - 2017-07-18 14:01:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:01:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 14:01:49 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-18 14:02:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:02:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 14:02:16 --> 404 Page Not Found: backend/Picture-addhtml/index
+DEBUG - 2017-07-18 14:04:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:04:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:04:19 --> Total execution time: 0.6969
+DEBUG - 2017-07-18 14:04:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:04:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:04:20 --> Total execution time: 0.7571
+DEBUG - 2017-07-18 14:04:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:04:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:04:22 --> Total execution time: 0.7415
+DEBUG - 2017-07-18 14:04:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:04:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:04:30 --> Total execution time: 0.7480
+DEBUG - 2017-07-18 14:06:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:06:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:06:08 --> Total execution time: 0.8269
+DEBUG - 2017-07-18 14:06:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:06:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:06:09 --> Total execution time: 0.8675
+DEBUG - 2017-07-18 14:06:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:06:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:06:12 --> Total execution time: 0.6982
+DEBUG - 2017-07-18 14:06:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:06:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:06:13 --> Total execution time: 0.7333
+DEBUG - 2017-07-18 14:06:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:06:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:06:16 --> Total execution time: 0.7497
+DEBUG - 2017-07-18 14:11:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:11:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:11:43 --> Total execution time: 0.7450
+DEBUG - 2017-07-18 14:12:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:12:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:12:34 --> Total execution time: 0.6597
+DEBUG - 2017-07-18 14:12:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:12:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:12:35 --> Total execution time: 0.6653
+DEBUG - 2017-07-18 14:14:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:14:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:14:23 --> Total execution time: 0.6944
+DEBUG - 2017-07-18 14:14:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:14:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:14:24 --> Total execution time: 0.6962
+DEBUG - 2017-07-18 14:14:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:14:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:14:30 --> Total execution time: 0.6555
+DEBUG - 2017-07-18 14:14:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:14:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:14:31 --> Total execution time: 0.7172
+DEBUG - 2017-07-18 14:19:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:19:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:19:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:19:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:24:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:24:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:25:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:25:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:25:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:25:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:25:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:25:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:25:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:25:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:28:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:28:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:28:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:28:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:28:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:28:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:28:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:28:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:29:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:29:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:30:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:30:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:30:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:30:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:31:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:31:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:31:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:31:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:32:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:32:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:32:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:32:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:32:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:32:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:32:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:32:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:33:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:33:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:33:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:33:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:37:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:37:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:37:43 --> Total execution time: 1.1555
+DEBUG - 2017-07-18 14:38:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:38:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:38:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:38:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:42:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:42:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:42:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:42:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:43:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:43:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:43:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:43:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:44:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:44:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:44:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:44:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:45:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:45:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:45:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:45:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:46:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:46:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:46:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:46:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:47:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:47:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:47:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:47:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:47:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:47:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:47:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:47:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:48:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:48:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:48:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:48:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:49:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:49:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:49:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:49:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:49:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:49:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:49:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:49:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:51:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:51:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:51:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:51:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:52:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:52:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 14:52:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 14:52:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:04:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:04:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:04:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:04:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:10:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:10:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:10:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:10:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:13:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:13:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:13:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:13:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:14:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:14:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:14:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:14:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:15:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:15:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:15:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:15:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:17:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:17:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:17:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:17:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:18:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:18:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:18:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:18:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:19:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:19:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:20:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:20:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:20:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:20:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:21:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:21:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:21:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:21:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:25:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:25:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:25:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:25:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:25:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:25:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:25:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:25:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:25:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:25:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:26:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:26:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:26:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:26:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:26:20 --> Total execution time: 0.8737
+DEBUG - 2017-07-18 15:26:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:26:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:26:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:26:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:26:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:26:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:26:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:26:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:34:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:34:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:34:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:34:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:34:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:34:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:41:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:41:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:41:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:41:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:43:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:43:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:43:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:43:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:43:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:43:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:43:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:43:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:44:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:44:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:45:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:45:20 --> Total execution time: 0.7951
+DEBUG - 2017-07-18 15:55:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:55:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:57:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 15:57:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 15:57:20 --> Total execution time: 0.6853
+DEBUG - 2017-07-18 16:17:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:17:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:17:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:17:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:20:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:20:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:20:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:20:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:20:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:20:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:21:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:21:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:22:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:22:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:22:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:22:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:25:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:25:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:25:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:25:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:26:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:26:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:26:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:26:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:26:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:26:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:26:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:26:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:26:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:26:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:26:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:26:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:27:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:27:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:27:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:27:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:27:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:27:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:27:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:27:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:28:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:28:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:28:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:28:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:28:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:28:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:28:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:28:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:29:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:29:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:29:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:29:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:29:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:29:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:29:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:29:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:30:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:30:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:30:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:30:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:30:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:30:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:30:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:30:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:30:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:30:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:31:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:31:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:34:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:34:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:34:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:34:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:35:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:35:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:35:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:35:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:37:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:37:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:37:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:37:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:39:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:39:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:39:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:39:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:40:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:40:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:43:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:48:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:48:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:50:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:50:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:50:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:50:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:52:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:52:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:52:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:52:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:53:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:53:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:53:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:53:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:53:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:53:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:53:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:53:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:56:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:56:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:56:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:56:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:58:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:58:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:58:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:58:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:58:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:58:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:58:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:58:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:58:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:58:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:59:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:59:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:59:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:59:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 16:59:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:59:29 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 16:59:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+ LIMIT 100' at line 3 - Invalid query: SELECT *
+FROM `hc_image`
+WHERE `id` IN()
+ LIMIT 100
+DEBUG - 2017-07-18 16:59:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 16:59:53 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 16:59:54 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+ LIMIT 100' at line 3 - Invalid query: SELECT *
+FROM `hc_image`
+WHERE `id` IN()
+ LIMIT 100
+DEBUG - 2017-07-18 17:01:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:01:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:02:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:02:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:02:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:02:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:02:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:02:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:02:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:02:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:02:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:02:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:02:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:02:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:07:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:07:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:09:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:09:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:13:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:13:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:13:10 --> Total execution time: 1.2980
+DEBUG - 2017-07-18 17:13:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:13:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:13:11 --> Total execution time: 0.7959
+DEBUG - 2017-07-18 17:13:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:13:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:13:16 --> Total execution time: 0.7437
+DEBUG - 2017-07-18 17:13:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:13:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:13:17 --> Total execution time: 0.7225
+DEBUG - 2017-07-18 17:13:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:13:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:13:20 --> Total execution time: 0.7932
+DEBUG - 2017-07-18 17:14:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:14:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:14:02 --> Total execution time: 1.0446
+DEBUG - 2017-07-18 17:14:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:14:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:14:28 --> Total execution time: 0.6699
+DEBUG - 2017-07-18 17:14:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:14:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:14:29 --> Total execution time: 1.1049
+DEBUG - 2017-07-18 17:14:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:14:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:14:39 --> Total execution time: 0.6965
+DEBUG - 2017-07-18 17:14:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:14:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:14:40 --> Total execution time: 0.6619
+DEBUG - 2017-07-18 17:15:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:15:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:15:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:15:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:44:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:44:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:44:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:44:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:44:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:44:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:44:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:44:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:45:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:45:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 17:45:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 17:45:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:01:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:01:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:01:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:01:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:01:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:01:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:02:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:02:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:02:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:02:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:02:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:02:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:02:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:02:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:02:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:02:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:02:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:02:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:02:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:02:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:02:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:02:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:02:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:02:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:03:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:03:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:03:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:03:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:04:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:04:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:04:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:04:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:09:43 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:09:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:10:13 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:10:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:10:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:10:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:11:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:11:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:13:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:13:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:14:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:14:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:16:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:16:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:16:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:16:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:16:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:16:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:16:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:16:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:18:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:18:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:18:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:18:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:18:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:18:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:18:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:18:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:18:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:18:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:19:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:19:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:19:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:19:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:20:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:20:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:20:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:20:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:22:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:22:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:31:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:31:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:31:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:31:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:32:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:32:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:32:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:32:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:34:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:34:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:34:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:34:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:34:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:34:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:41:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:41:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:42:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:42:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:42:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:42:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:44:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:44:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:44:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:44:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:48:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:48:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:48:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:48:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:48:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:48:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:50:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:50:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:50:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:50:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:50:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:50:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:51:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:51:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:51:31 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:51:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:51:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:51:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:52:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:52:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:52:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:52:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:52:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:52:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:54:45 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:54:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:55:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:55:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:55:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:55:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:55:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:55:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:58:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:58:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:58:22 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:58:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 18:58:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 18:58:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:00:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:00:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:00:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:00:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:01:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:01:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:01:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:01:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:01:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:01:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:01:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:01:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:02:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:02:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:02:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:02:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:02:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:02:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:03:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:03:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:03:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:03:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:04:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:04:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:04:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:04:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:04:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:04:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:04:57 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:04:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:07:42 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:07:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:07:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:07:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:07:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:07:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:09:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:09:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:09:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:09:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:11:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:11:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:11:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:11:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:11:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:11:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:12:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:12:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:13:33 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:13:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:13:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:13:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:17:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:17:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:17:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:17:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:17:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:17:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:18:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:18:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:18:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:18:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:18:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:18:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:19:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:19:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:20:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:20:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:21:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:21:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:21:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:21:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:21:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:21:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:24:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:24:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:24:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:24:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:24:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:24:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:33:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:33:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:33:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:33:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:33:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:33:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:35:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:35:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:35:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:35:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:35:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:35:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:37:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:37:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:37:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:37:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:37:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:37:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:38:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:38:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:38:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:38:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:38:50 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:38:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:42:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:42:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:42:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:42:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:42:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:42:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:44:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:44:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:44:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:44:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:44:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:44:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:46:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:46:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:46:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:46:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:46:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:46:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:47:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:47:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:47:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:47:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:47:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:47:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:50:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:50:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:50:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:50:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:50:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:50:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:51:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:51:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:51:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:51:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:51:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:51:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:54:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:54:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:54:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:54:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:54:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:54:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:57:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:57:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:57:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:57:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 19:58:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 19:58:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:00:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:00:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:00:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:00:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:00:46 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:00:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:01:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:01:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:01:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:01:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:01:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:01:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:04:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:04:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:04:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:04:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:04:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:04:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:05:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:05:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:05:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:05:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:05:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:05:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:06:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:06:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:06:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:06:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:06:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:06:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:06:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:06:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:06:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:06:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:07:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:07:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:08:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:08:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:08:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:08:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:08:24 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:08:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:12:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:12:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:12:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:12:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:12:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:12:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:12:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:12:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:13:14 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:13:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:13:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:13:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:13:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:13:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:14:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:14:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:14:51 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:14:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:15:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:15:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:17:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:17:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:17:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:17:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:17:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:17:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 20:18:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 20:18:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:28:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:28:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:28:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:28:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:28:16 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:28:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:32:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:32:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:32:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:32:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:32:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:33:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:33:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:33:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:33:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:33:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:33:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:33:59 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:34:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:35:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:35:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:35:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:35:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:38:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:38:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:38:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:38:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:39:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:39:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:39:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:39:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:39:56 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:39:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:40:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:40:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:41:03 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:41:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:41:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:41:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:41:10 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:41:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:42:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:42:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:42:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:42:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:42:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:42:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:44:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:44:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:44:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:44:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:45:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:46:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:46:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:46:25 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:46:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:46:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:46:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:47:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:47:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:47:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:47:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:47:27 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:47:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:47:34 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:47:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:47:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:47:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:47:41 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:47:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:47:44 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:47:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:47:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:47:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:47:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:47:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:48:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:48:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:52:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:52:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 22:52:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 22:52:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:14:48 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:14:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:17:28 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:17:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:17:32 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:17:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:17:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:17:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:19:29 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:19:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:19:37 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:19:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:19:40 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:19:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:21:09 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:21:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:21:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:21:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:21:17 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:21:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:22:02 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:22:03 --> Total execution time: 1.1347
+DEBUG - 2017-07-18 23:22:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:22:05 --> Total execution time: 1.0274
+DEBUG - 2017-07-18 23:22:05 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 23:22:06 --> 404 Page Not Found: Faviconico/index
+DEBUG - 2017-07-18 23:22:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:22:08 --> Total execution time: 0.7256
+DEBUG - 2017-07-18 23:22:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:22:09 --> Total execution time: 0.7386
+DEBUG - 2017-07-18 23:22:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:22:11 --> Total execution time: 0.7530
+DEBUG - 2017-07-18 23:22:12 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:22:12 --> Total execution time: 0.7473
+DEBUG - 2017-07-18 23:22:19 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:22:20 --> Total execution time: 0.7156
+DEBUG - 2017-07-18 23:22:20 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:22:21 --> Total execution time: 0.7288
+DEBUG - 2017-07-18 23:22:23 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:22:24 --> Total execution time: 0.9353
+DEBUG - 2017-07-18 23:22:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:22:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2017-07-18 23:22:36 --> 404 Page Not Found: backend/Member-addhtml/index
+DEBUG - 2017-07-18 23:23:00 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:23:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:23:01 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:23:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:23:01 --> Total execution time: 1.0691
+DEBUG - 2017-07-18 23:23:01 --> Total execution time: 0.9723
+DEBUG - 2017-07-18 23:23:06 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:23:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:23:06 --> Total execution time: 0.7129
+DEBUG - 2017-07-18 23:23:08 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:23:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:23:09 --> Total execution time: 0.7229
+DEBUG - 2017-07-18 23:24:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:24:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:24:35 --> Total execution time: 0.7123
+DEBUG - 2017-07-18 23:24:36 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:24:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:24:36 --> Total execution time: 0.7646
+DEBUG - 2017-07-18 23:24:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:24:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:24:40 --> Total execution time: 0.7962
+DEBUG - 2017-07-18 23:25:21 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:25:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:25:21 --> Total execution time: 0.7417
+DEBUG - 2017-07-18 23:34:07 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:34:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:34:11 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:34:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:34:15 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:34:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:36:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:36:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:36:52 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:36:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:36:55 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:36:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:37:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:37:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:37:39 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:37:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:37:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:37:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:38:18 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:38:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:39:54 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:39:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:39:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:39:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:40:35 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:40:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:40:38 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:40:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:40:47 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:40:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:41:26 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:41:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:41:30 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:41:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:41:49 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:41:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:41:53 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:41:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:41:58 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:41:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-07-18 23:44:04 --> UTF-8 Support Enabled
+DEBUG - 2017-07-18 23:44:04 --> Global POST, GET and COOKIE data sanitized
