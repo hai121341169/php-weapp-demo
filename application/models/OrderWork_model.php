@@ -6,6 +6,7 @@ class OrderWork_model extends CI_Model {
     }
 
     public function get_order_work($where, $limit = 10, $offset = 0){
+        $where['is_delete'] = 0;
         $query = $this->db->where($where)->limit($limit)->offset($offset)->get('order_work');
 
         // echo $this->db->last_query(); exit;
@@ -16,5 +17,15 @@ class OrderWork_model extends CI_Model {
         $query = $this->db->where($where)->get('order_work');
 
         return $query->row_array();
+    }
+
+    public function add_order_work($data){
+        $result = $this->db->insert('order_work', $data);
+        return $result ? $this->db->insert_id() : 0;
+    }
+
+    public function update_order_work($order_work_id, $data){
+        $result = $this->db->update('order_work', $data, array('id' => $order_work_id));
+        return $result;
     }
 }

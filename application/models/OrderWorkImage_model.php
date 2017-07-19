@@ -4,6 +4,12 @@ class OrderWorkImage_model extends CI_Model {
         parent::__construct();
     }
 
+    public function get_order_work_image_detail($order_work_image_id){
+        $query = $this->db->where(array('id' => $order_work_image_id))->get('order_work_image');
+        // echo $this->db->last_query(); exit;
+        return $query->row_array();
+    }
+
     public function get_order_work_image($where){
     	$limit = $this->config->item('max_row');
         $query = $this->db->where($where)->get('order_work_image', $limit);

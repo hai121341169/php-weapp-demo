@@ -10,19 +10,23 @@ class Image extends MY_Controller {
         $order_work_id = $_POST['order_work_id'];
         $bucket = 'uploadimg';
         $src = $_FILES["file"]["tmp_name"];
-        $dst = '/'.$_POST["filepath"].'/'.$_POST["filename"];
-        $folder = '/'.$_POST["filepath"];
 
-        if(!$user_id || !$order_work_id || empty($_FILES) || !$_POST['filepath'] || !$_POST['filename']){
+        // 判断参数有效值
+        if(!$user_id || empty($_FILES)){
             $this->return['code'] = 201;
             $this->return['description'] = '字段缺失';
             $this->ajaxReturn();
         } 
-
         // 读取图片的大小宽高
         $tmp_image_detail = getimagesize($src); 
         !empty($tmp_image_detail) && $tmp_image_detail['size'] = filesize($src);
-        // var_dump($tmp_image_detail); exit;
+
+        // 文件夹
+        $folder = '/'.date('Y/m/d');
+
+        // 文件重命名
+        $tmp_image = explode('.', $_FILES["file"]["name"]);
+        $dst = $folder.'/' . date('YmdHis').rand(1000, 9999) . '.' . end($tmp_image);
 
         Cosapi::setTimeout(180);
 
@@ -36,16 +40,19 @@ class Image extends MY_Controller {
         $ret = Cosapi::upload($bucket, $src, $dst);
         //var_dump($ret);
 
-        $this->return['data'] = $ret;
         if ($ret['code'] != '0') {
             $this->return['code'] = 301;
-            $this->return['description'] = '上传失败';
-            // $this->ajaxReturn();
+            $this->return['description'] = $ret['message'];
+            $this->ajaxReturn();
         }
+
+        $ret = $ret['data'];
+        $resources_path = explode($bucket, $ret['resource_path']);
+        $ret['image_url'] = $this->config->item('image_host') . end($resources_path);;
 
         // 写入到image数据表
         $data = array(
-            'image_url' => 'http://uploadimg-1253710425.cosgz.myqcloud.com/E20170425115139012585793/0/0.jpg', // $ret['source_url'],
+            'image_url' => $ret['image_url'], // $ret['source_url'],
             'user_id' => $user_id,
             'width' => $tmp_image_detail[0],
             'height' => $tmp_image_detail[1],
@@ -59,56 +66,42 @@ class Image extends MY_Controller {
             $this->return['code'] = 202;
             $this->return['description'] = '上传失败';
         }else{
-            // 写入order_work_image数据表
-            if($order_work_id){
-                $data = array(
-                    'order_work_id' => $order_work_id,
-                    'image_id' => $result,
-                    'user_id' => $user_id,
-                    'status' => 0,
-                );
-                $this->load->model('OrderWorkImage_model', 'OrderWorkImage');
-                $result = $this->OrderWorkImage->add_order_work_image($data);
+            // 读取图片信息
+            $image_detail = array_merge($data, array('id' => $result));
+            $this->load->model('User_model', 'User');
+            $user_detail = $this->User->get_user(array('id' => $user_id));
+            if(!empty($user_detail)){
+                $image_detail['avatar_url'] = $user_detail['avatar_url'];
+                $image_detail['username'] = $user_detail['username'];
             }
+
+            // 写入order_work_image数据表
+            if($order_work_id > 0){
+                // 读取order_work数据
+                $this->load->model('OrderWork_model', 'OrderWork');
+                $where = array('id' => $order_work_id);
+                $order_work_detail = $this->OrderWork->get_order_work_detail($where);
+                if(!empty($order_work_detail)){
+                    $data = array(
+                        'order_work_id' => $order_work_id,
+                        'image_id' => $result,
+                        'user_id' => $user_id,
+                        'status' => ($order_work_detail['user_id'] == $user_id ? 1 : 0),
+                    );
+                    $this->load->model('OrderWorkImage_model', 'OrderWorkImage');
+                    $result = $this->OrderWorkImage->add_order_work_image($data);
+                    
+                    // 图片订单作品信息
+                    if($result){
+                        $image_detail['order_work_image_id'] = $result;
+                        $image_detail['status'] = $data['status'];
+                    }
+                }
+            }
+
+            $this->return['data'] = $image_detail;
         }
 
-        $this->ajaxReturn();
-    }
-    
-    public function test(){
-        $this->return['data'] = array(
-            array('name' => 'sdf'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'qwe'),
-            array('name' => 'gas')
-        );
         $this->ajaxReturn();
     }
 }

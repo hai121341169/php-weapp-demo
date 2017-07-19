@@ -521,3 +521,5 @@ $config['wx'] = array(
     'secret' => '4b3724c46a7a052b7df854d2f9b0118e',
     'grant_type' => 'authorization_code'
 );
+
+$config['image_host'] = 'http://img-qcloud.hucai.com';
