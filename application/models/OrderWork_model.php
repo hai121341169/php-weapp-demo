@@ -5,9 +5,11 @@ class OrderWork_model extends CI_Model {
         parent::__construct();
     }
 
-    public function get_order_work($where, $limit = 10, $offset = 0){
-        $where['is_delete'] = 0;
-        $query = $this->db->where($where)->limit($limit)->offset($offset)->get('order_work');
+    public function get_order_work($where, $limit = 10, $offset = 0, $sort = 'update_time DESC'){
+        if(is_array($where)) $where['is_delete'] = 0;
+        else $where .= ' AND is_delete = 0';
+        
+        $query = $this->db->where($where)->limit($limit)->offset($offset)->order_by($sort)->get('order_work');
 
         // echo $this->db->last_query(); exit;
         return $query->result_array();

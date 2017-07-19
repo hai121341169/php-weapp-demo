@@ -113,8 +113,8 @@ class Order extends MY_Controller {
         if(!empty($order_work_list)){
             // 查询订单作品详情
             $this->load->model('OrderWork_model', 'OrderWork');
-            $where = array('id' => join(',', array_column($order_work_list, 'order_work_id')));
-            $list = $this->OrderWork->get_order_work($where); 
+            $ids = join(',', array_column($order_work_list, 'order_work_id'));
+            $list = $this->OrderWork->get_order_work('id in (' . $ids . ')', 10, 0, 'FIELD(`id`, ' . $ids . ')'); 
             if(!empty($list)){
                 $user_ids = array_unique(array_column($list, 'user_id'));
                 $this->load->model('User_model', 'User');
@@ -161,7 +161,7 @@ class Order extends MY_Controller {
             $this->ajaxReturn();
         }
 
-        $result = $this->OrderWork->update_order_work($order_work_id, array('is_delete' => 1));
+        $result = $this->OrderWork->update_order_work($order_work_id, array('is_delete' => 1, 'update_time' => time()));
 
         $this->ajaxReturn();
     }
@@ -212,7 +212,14 @@ class Order extends MY_Controller {
             // 读取图片详情及分组
             $this->load->model('Image_model', 'Image');
             $where = array_column($order_work_list, 'image_id');
-            $list = $this->Image->get_image($where);
+            // 查询排序
+            $sort = array('add_time DESC');
+            $this->load->model('OrderWorkImageSort_model', 'OrderWorkImageSort');
+            $sort_detail = $this->OrderWorkImageSort->get_order_work_image_sort($order_work_id);
+            if(!empty($sort_detail) && $sort_detail['sort']){
+                $sort = 'FIELD(`id`, ' . $sort_detail['sort'] . ')';
+            }
+            $list = $this->Image->get_image($where, $sort);
 
             if(!empty($list)){
                 $user_ids = array_unique(array_column($list, 'user_id'));
@@ -291,6 +298,45 @@ class Order extends MY_Controller {
         $this->load->model('OrderWorkImage_model', 'OrderWorkImage');
         $data = array('status' => $status);
         $result = $this->OrderWorkImage->update_order_work_image($order_work_image_id, $data);
+        $this->ajaxReturn();
+    }
+
+    /**
+     * 订单作品图片排序
+     * Typecho Blog Platform
+     * @copyright [copyright]
+     * @license   [license]
+     * @version   [version]
+     * @return    [type]      [description]
+     */
+    public function save_order_work_image(){
+        $order_work_id = isset($_POST['order_work_id']) ? $_POST['order_work_id'] : '';
+        $sort = isset($_POST['sort']) ? $_POST['sort'] : array();
+        $save = isset($_POST['save']) ? $_POST['save'] : 0;
+
+        if(!$order_work_id || empty($sort)){
+            $this->return['code'] = 201;
+            $this->return['description'] = '字段缺失';
+            $this->ajaxReturn();
+        }
+
+        $this->load->model('OrderWorkImageSort_model', 'OrderWorkImageSort');
+        $data = array(
+            'order_work_id' => $order_work_id,
+            'sort' => $sort
+        );
+        $result = $this->OrderWorkImageSort->update_order_work_image_sort($data);
+        if($result){
+            if($save > 0){
+                // 更新order_work
+                $this->load->model('OrderWork_model', 'OrderWork');
+                $where = array('id' => $order_work_id);
+                $result = $this->OrderWork->update_order_work($order_work_id, array('status' => 1, 'update_time' => time()));
+            }   
+        }else{
+            $this->return['code'] = 500;
+            $this->return['description'] = '保存失败';
+        }
         $this->ajaxReturn();
     }
 }

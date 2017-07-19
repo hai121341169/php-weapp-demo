@@ -4,9 +4,10 @@ class Image_model extends CI_Model {
         parent::__construct();
     }
 
-    public function get_image($where){
+    public function get_image($where, $sort = 'add_time DESC'){
     	$limit = $this->config->item('max_row');
-        $query = $this->db->where_in('id', $where)->get('image', $limit);
+        $query = $this->db->where_in('id', $where)->order_by($sort)->get('image', $limit);
+        // echo $this->db->last_query(); exit;
         $result = $query->result_array();
 
         if(!empty($result)){

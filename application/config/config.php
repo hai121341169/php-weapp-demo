@@ -513,7 +513,7 @@ $config['rewrite_short_tags'] = FALSE;
 */
 $config['proxy_ips'] = '';
 
-$config['max_row'] = 100;
+$config['max_row'] = 200;
 
 $config['wx'] = array(
     'url' => 'https://api.weixin.qq.com/sns/jscode2session',

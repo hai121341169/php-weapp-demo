@@ -57,7 +57,8 @@ class Image extends MY_Controller {
             'width' => $tmp_image_detail[0],
             'height' => $tmp_image_detail[1],
             'source' => 1,
-            'quality' => 0
+            'quality' => 0,
+            'add_time' => time()
         );
         $this->load->model('Image_model', 'Image');
         $result = $this->Image->add_image($data);

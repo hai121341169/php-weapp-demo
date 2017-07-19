@@ -10,9 +10,9 @@ class OrderWorkImage_model extends CI_Model {
         return $query->row_array();
     }
 
-    public function get_order_work_image($where){
+    public function get_order_work_image($where, $sort = 'id DESC'){
     	$limit = $this->config->item('max_row');
-        $query = $this->db->where($where)->get('order_work_image', $limit);
+        $query = $this->db->where($where)->order_by($sort)->get('order_work_image', $limit);
         // echo $this->db->last_query(); exit;
         return $query->result_array();
     }
