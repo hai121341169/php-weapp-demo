@@ -16,6 +16,8 @@ class OrderWork_model extends CI_Model {
     }
 
     public function get_order_work_detail($where){
+        if(is_array($where)) $where['is_delete'] = 0;
+        else $where .= ' AND is_delete = 0';
         $query = $this->db->where($where)->get('order_work');
 
         return $query->row_array();

@@ -6,5 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Xiang\\WechatApp\\Decode\\' => array($vendorDir . '/xiang1993/wechatapp-decrypt/src/decode'),
     'Gregwar\\Captcha\\' => array($vendorDir . '/gregwar/captcha'),
 );

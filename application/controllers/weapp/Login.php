@@ -40,7 +40,7 @@ class Login extends MY_Controller {
         $signature2 = sha1($_GET['rawData'].$session_key);  //记住不应该用TP中的I方法，会过滤掉必要的数据
         if ($signature != $signature2) {
             $this->return['code'] = 201;
-            $this->return['data'] = '数据签名验证失败！';
+            $this->return['description'] = '数据签名验证失败！';
             $this->ajaxReturn();
         }
 
@@ -72,7 +72,7 @@ class Login extends MY_Controller {
             $this->return['data'] = $user_detail;
         } else {
             $this->return['code'] = 401;
-            $this->return['data'] = $errCode;
+            $this->return['description'] = $errCode;
         }
         
         $this->ajaxReturn();

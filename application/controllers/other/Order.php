@@ -255,7 +255,7 @@ class Order extends MY_Controller {
             $this->load->model('Image_model', 'Image');
             $where = array_column($order_work_list, 'image_id');
             // 查询排序
-            $sort = array('add_time DESC');
+            $sort = 'add_time DESC';
             $this->load->model('OrderWorkImageSort_model', 'OrderWorkImageSort');
             $sort_detail = $this->OrderWorkImageSort->get_order_work_image_sort($order_work_id);
             if(!empty($sort_detail) && $sort_detail['sort']){

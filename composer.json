@@ -1,6 +1,7 @@
 {
     "require": {
         "royfj/tencentyun-cos-php-sdk-v4": "^0.1.0",
-        "gregwar/captcha": "^1.1"
+        "gregwar/captcha": "^1.1",
+        "xiang1993/wechatapp-decrypt": "^1.0"
     }
 }
