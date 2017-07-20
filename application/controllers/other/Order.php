@@ -19,14 +19,26 @@ class Order extends MY_Controller {
 
         if(!empty($detail)){
             if($detail['status'] > 0){
-                $description = array('订单正在处理中', '订单等待接单', '订单已经被已接单', '订单已经处理结束');
+                $description = array(
+                    '订单正在处理中', 
+                    '您的照片已提交，请耐心等待客服接单，如有疑问请咨询客服。', 
+                    '您的作品已经接单，如有疑问请咨询客服。', 
+                    '您的作品已提交设计师排版，具体进度请咨询客服。'
+                );
                 $this->return['code'] = 402;
                 $this->return['description'] = $description[$detail['status']];
                 $this->ajaxReturn();
             }else if($detail['user_id'] != $user_id){
-                $this->return['code'] = 402;
-                $this->return['description'] = '订单已经被人上传过了, 分享才可上传';
-                $this->ajaxReturn();
+                // 查询是否是贡献者
+                
+                $this->load->model('OrderWorkJoin_model', 'OrderWorkJoin');
+                $join_user_list = $this->OrderWorkJoin->get_join_order_work(array('order_work_id' => $detail['id'], 'user_id' => $user_id));
+                if(empty($join_user_list)){
+                    $this->return['code'] = 402;
+                    $this->return['description'] = '订单已经被人上传过了, 分享才可上传';
+                    $this->ajaxReturn();
+                }
+                $this->return['data'] = $detail;
             }else{
                 $this->return['data'] = $detail;
             }
@@ -174,16 +186,46 @@ class Order extends MY_Controller {
         $order_work_id = $this->input->get('order_work_id');
         $order_sn = $this->input->get('order_sn');
         $work_id = $this->input->get('work_id');
+        $share = $this->input->get('share');
+        $user_id = $this->input->get('user_id');
         
+        $this->load->library('Encrypt'); 
         $this->load->model('OrderWork_model', 'OrderWork');
         if(!$order_work_id){
-            if(!$order_sn || !$work_id){
+            $where = array();
+            if($share){
+                $share = $this->encrypt->decode(urldecode($share));
+                $share = explode('|', $share);
+
+                if( time() - $share[1] > 30 * 24 * 3600 ){
+                    $this->return['code'] = 403;
+                    $this->return['description'] = '小程序分享已经过期';
+                    $this->ajaxReturn();
+                }else{
+                    $where = array('id' => $share[0]);
+                    $order_work_detail = $this->OrderWork->get_order_work_detail($where);
+                    if(!empty($order_work_detail)){
+                        $order_work_id = $order_work_detail['id'];
+
+                        // 加入参入者列表
+                        if($user_id > 0){
+                            $this->load->model('OrderWorkJoin_model', 'OrderWorkJoin');
+                            $this->OrderWorkJoin->add_order_work_join(array(
+                                'order_work_id' => $order_work_id,
+                                'user_id' => $user_id,
+                                'add_time' => time()
+                            ));
+                        }
+                    }
+                }
+            }else if($order_sn && $work_id >= 0){
+                $where = array('order_sn' => $order_sn, 'work_id' => $work_id);
+            }else{
                 $this->return['code'] = 201;
                 $this->return['description'] = '字段缺失';
                 $this->ajaxReturn();
             }
-
-            $where = array('order_sn' => $order_sn, 'work_id' => $work_id);
+            
             $order_work_detail = $this->OrderWork->get_order_work_detail($where);
             if(!empty($order_work_detail)){
                 $order_work_id = $order_work_detail['id'];
@@ -240,11 +282,14 @@ class Order extends MY_Controller {
                 }
             }
         }
-
         $this->return['data'] = array(
             'order_work_id' => $order_work_id, 
             'status' => $order_work_detail['status'],
             'user_id' => $order_work_detail['user_id'],
+            'order_sn' => $order_work_detail['order_sn'],
+            'work_id' => $order_work_detail['work_id'],
+            'share' => $this->encrypt->encode($order_work_id.'|'.time()),
+            'max_number' => 30,
             'list' => $list
         );
         $this->ajaxReturn();

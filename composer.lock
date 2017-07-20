@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "8debc96c8bae072e2f1991306a44d009",
+    "content-hash": "6babf487a6f3fb430a432f5889797253",
     "packages": [
         {
             "name": "gregwar/captcha",
@@ -84,39 +84,6 @@
             "description": "Fork from Tencentyun COS php sdk v4",
             "homepage": "https://www.qcloud.com/",
             "time": "2017-06-14T03:48:13+00:00"
-        },
-        {
-            "name": "xiang1993/wechatapp-decrypt",
-            "version": "v1.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/Xiang1993/WechatApp-decrypt.git",
-                "reference": "a2d00e5ec28c7318e6f4bc16912840013f9caf3a"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://files.phpcomposer.com/files/Xiang1993/WechatApp-decrypt/a2d00e5ec28c7318e6f4bc16912840013f9caf3a.zip",
-                "reference": "a2d00e5ec28c7318e6f4bc16912840013f9caf3a",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">5.4"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "Xiang\\WechatApp\\Decode\\": "src/decode"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "authors": [
-                {
-                    "name": "axf",
-                    "email": "2792938834@qq.com"
-                }
-            ],
-            "description": "微信小程序签名加密",
-            "time": "2017-05-06T08:15:13+00:00"
         }
     ],
     "packages-dev": [],

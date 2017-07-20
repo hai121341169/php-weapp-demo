@@ -11,4 +11,10 @@ class OrderWorkJoin_model extends CI_Model {
 
         return $result;
     }
+
+    public function add_order_work_join($data){
+    	$table_name = $this->db->dbprefix('order_work_join');
+        $result = $this->db->query("insert ignore into `{$table_name}` value('".$data['order_work_id']."', '".$data['user_id']."', '".$data['add_time']."')");
+    	return $result;
+    }
 }

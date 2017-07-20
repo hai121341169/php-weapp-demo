@@ -11,10 +11,6 @@ class ComposerStaticInitb7798da121f6bf7e8f76316b7cfc285f
     );
 
     public static $prefixLengthsPsr4 = array (
-        'X' => 
-        array (
-            'Xiang\\WechatApp\\Decode\\' => 23,
-        ),
         'G' => 
         array (
             'Gregwar\\Captcha\\' => 16,
@@ -22,10 +18,6 @@ class ComposerStaticInitb7798da121f6bf7e8f76316b7cfc285f
     );
 
     public static $prefixDirsPsr4 = array (
-        'Xiang\\WechatApp\\Decode\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/xiang1993/wechatapp-decrypt/src/decode',
-        ),
         'Gregwar\\Captcha\\' => 
         array (
             0 => __DIR__ . '/..' . '/gregwar/captcha',

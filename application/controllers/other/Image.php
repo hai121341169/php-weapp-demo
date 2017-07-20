@@ -48,8 +48,14 @@ class Image extends MY_Controller {
 
         $ret = $ret['data'];
         $resources_path = explode($bucket, $ret['resource_path']);
-        $ret['image_url'] = $this->config->item('image_host') . end($resources_path);;
+        $ret['image_url'] = $this->config->item('image_host') . end($resources_path);
 
+        // 判断照片质量
+        $scale = number_format($tmp_image_detail[0] / $tmp_image_detail[1], 3);
+        if($tmp_image_detail[0] < 900 || $tmp_image_detail[1] < 900) $quality = 2;
+        else if($scale <= 0.55 || $scale >= 1.8) $quality = 1;
+        else $quality = 0;
+        
         // 写入到image数据表
         $data = array(
             'image_url' => $ret['image_url'], // $ret['source_url'],
@@ -57,7 +63,7 @@ class Image extends MY_Controller {
             'width' => $tmp_image_detail[0],
             'height' => $tmp_image_detail[1],
             'source' => 1,
-            'quality' => 0,
+            'quality' => $quality,
             'add_time' => time()
         );
         $this->load->model('Image_model', 'Image');
